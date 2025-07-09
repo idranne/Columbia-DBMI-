@@ -8,11 +8,11 @@ The field of mobile health and digital healthcare technology have evolved to dev
 This summer project aims to use machine learning / deep learning algorithms to build a multimodal app (ParkAssist) that collects a variety of metrics from the user such as facial expression, sound recordings, typing /handwritten datasets, movements which are predictive for PD. In addtion the app would take into account the gene expression of patients which would be helpful for early PD diagnosis. By harnessing the power of passive data and gene expression, ParkAssist will enhance early PD detection and diagnosis
 
 # Dataset For Machine Learning / Deep Learning 
- Sound recordings: https://archive.ics.uci.edu/dataset/470/parkinson+s+disease+classification
- Typing/handwritting dataset: https://physionet.org/content/tappy/1.0.0/
- Spiral drawing: https://archive.ics.uci.edu/dataset/395/parkinson+disease+spiral+drawings+using+digitized+graphics+tablet
- Facial dataset: https://www.nature.com/articles/s41531-022-00414-8#author-information
- Gene expression: https://cellxgene.cziscience.com/collections/d5d0df8f-4eee-49d8-a221-a288f50a1590
+ - Sound recordings: https://archive.ics.uci.edu/dataset/470/parkinson+s+disease+classification
+-  Typing/handwritting dataset: https://physionet.org/content/tappy/1.0.0/
+-  Spiral drawing: https://archive.ics.uci.edu/dataset/395/parkinson+disease+spiral+drawings+using+digitized+graphics+tablet
+-  Facial dataset: https://www.nature.com/articles/s41531-022-00414-8#author-information
+-  Gene expression: https://cellxgene.cziscience.com/collections/d5d0df8f-4eee-49d8-a221-a288f50a1590
 
 # Project Timeline (7 weeks) and Tech Stack 
 # Week 1 and 2: 
