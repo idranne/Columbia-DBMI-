@@ -15,6 +15,10 @@ This summer project aims to use machine learning / deep learning algorithms to b
 -  Gene expression: https://cellxgene.cziscience.com/collections/d5d0df8f-4eee-49d8-a221-a288f50a1590
 
 # Project Timeline (7 weeks) and Tech Stack 
-# Week 1 and 2: 
+- Week 1 and 2: Finding relevant datasets and training models (fine-tuning evaluating models, finding relevant features for deployment)
+- Tech stack : Machine learning algorithms, from simple classifers e.g Logistic Regression, Random Forest Classifiers to complex ones like CNN, RNN, LSTM
+- Week 3 and 4: Test 
+- Week 5 and 6:
+- Week 7 
  
 
