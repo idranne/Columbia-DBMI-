@@ -1,15 +1,6 @@
-6) Look into facial datasets --> Proprecess and stuff
+1) Finish GridSearchCV for lightgbm
 
+2) Let neural network be trained 
 
-5) Immediate things to do 
-- Build lightgbm model / include SMOTE for undersampled class and th 
-
-
-
-
-
-- LightGBM is something to consider, apparently it's good ---
-
-- Train a neural net --> maybe feedforward or MLP or something and see --> oday
-
+3) Find actual facial datasets
 
