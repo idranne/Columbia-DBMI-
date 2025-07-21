@@ -17,5 +17,5 @@ This summer project aims to use machine learning / deep learning algorithms to b
 # Project Timeline (7 weeks) and Tech Stack (will edit as I move forward in the project) 
 - Week 1 and 2: Finding relevant datasets and training models (fine-tuning evaluating models, finding relevant features for deployment)
 - Tech stack : Machine learning algorithms, from simple classiflers e.g Logistic Regression, Random Forest Classifiers to complex ones like CNN, RNN, LSTM
-- Week 3 and 4: Refine models, and build a backend workflow + Develop app prototype (will probably use flutter
+- Week 3 and 4: Refine models, and build a backend workflow + Develop app prototype (will probably use flutter), and start building frontend
 
