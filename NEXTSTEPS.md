@@ -1,11 +1,20 @@
-1) Finish GridSearchCV for lightgbm
+# Follow mentor's feedback
 
-2) Let neural network be trained  / and also do feature selection
+ Balance the typing dataset / hjabe a new idea, sortythe df such that you have equal false and treu cases for pd --> do this after lunch --> done by nothing improved :)
 
-3) Find actual facial datasets or take actions based on mentor's comment --> Also talk to him about emailing those people --> Possibly implement both a CNN and GNN if you have facial datasets 
+2) Let neural network be trained  / and also do feature selection and balance dataset
 
-4) if 3 == "None"
-      propose to mentor genomic datasets instead
+Tomorrow / tonight --> do feature selection in audio dataset, and also finish with the 
+
+
+# Preprocesss Facial datasets
+
+3) This would probably be an unsupervised deep learning task because we don't have labels, and everybody has PD. Like something that if you don't belong to this cluster or your URPDS score is low, then there's no way you have PD?
+
+Nevermind first idea, maybe even discard it cuz we now have uprds score, so this will be a good regression problem (0 meaning absent / mild PD ), and 
+
+
+# App workflow
 
 App design on Figma / Ipad at the end of this week
 
@@ -21,3 +30,7 @@ App Workflow
 --> Do same for typing dataset
 
 ----> Do same for genomic dataset and / or facial expressions depending on which one is good + feasible
+
+
+# Weekend plan 
+- Learn flutter and start building basic flutter pluggins

@@ -1,0 +1,2048 @@
+videoID_subjectID,label,frame length,class,description
+12-104704_0_001,4,63,0,sitting at rest
+12-104704_1_001,2,73,1,smile
+12-104704_2_001,1,75,2,frown
+12-104704_3_001,1,112,3,squeeze eyes tightly
+12-104704_4_001,2,90,4,clench the teeth
+12-104705_0_001,3,61,0,sitting at rest
+12-104705_1_001,1,65,1,smile
+12-104705_2_001,1,99,2,frown
+12-104705_3_001,0,94,3,squeeze eyes tightly
+12-104705_4_001,2,75,4,clench the teeth
+12-105618_0_001,2,36,0,sitting at rest
+12-105618_1_001,2,58,1,smile
+12-105618_2_001,1,94,2,frown
+12-105618_3_001,1,125,3,squeeze eyes tightly
+12-105618_4_001,2,109,4,clench the teeth
+12-105619_0_001,1,70,0,sitting at rest
+12-105619_1_001,2,77,1,smile
+12-105619_2_001,0,74,2,frown
+12-105619_3_001,0,71,3,squeeze eyes tightly
+12-105619_4_001,1,85,4,clench the teeth
+13-001142_0_001,2,37,0,sitting at rest
+13-001142_1_001,2,46,1,smile
+13-001142_2_001,1,44,2,frown
+13-001142_3_001,2,73,3,squeeze eyes tightly
+13-001142_4_001,2,76,4,clench the teeth
+13-001144_0_001,3,27,0,sitting at rest
+13-001144_1_001,2,56,1,smile
+13-001144_2_001,0,60,2,frown
+13-001144_3_001,0,57,3,squeeze eyes tightly
+13-001144_4_001,1,67,4,clench the teeth
+13-002506_0_001,1,19,0,sitting at rest
+13-002506_1_001,1,47,1,smile
+13-002506_2_001,1,72,2,frown
+13-002506_3_001,2,64,3,squeeze eyes tightly
+13-002506_4_001,1,101,4,clench the teeth
+13-002507_0_001,2,23,0,sitting at rest
+13-002507_1_001,2,72,1,smile
+13-002507_2_001,0,45,2,frown
+13-002507_3_001,0,91,3,squeeze eyes tightly
+13-002507_4_001,2,72,4,clench the teeth
+13-003769_0_001,1,26,0,sitting at rest
+13-003769_1_001,2,36,1,smile
+13-003769_2_001,1,70,2,frown
+13-003769_3_001,2,64,3,squeeze eyes tightly
+13-003769_4_001,1,72,4,clench the teeth
+13-003784_0_001,1,37,0,sitting at rest
+13-003784_1_001,1,37,1,smile
+13-003784_2_001,2,44,2,frown
+13-003784_3_001,0,50,3,squeeze eyes tightly
+13-003784_4_001,1,77,4,clench the teeth
+13-004897_0_001,0,31,0,sitting at rest
+13-004897_1_001,2,82,1,smile
+13-004897_2_001,2,112,2,frown
+13-004897_3_001,0,121,3,squeeze eyes tightly
+13-004897_4_001,1,129,4,clench the teeth
+13-004914_0_001,1,36,0,sitting at rest
+13-004914_1_001,1,77,1,smile
+13-004914_2_001,1,96,2,frown
+13-004914_3_001,0,111,3,squeeze eyes tightly
+13-004914_4_001,0,100,4,clench the teeth
+13-006186_0_001,2,27,0,sitting at rest
+13-006186_1_001,2,85,1,smile
+13-006186_2_001,2,112,2,frown
+13-006186_3_001,1,125,3,squeeze eyes tightly
+13-006186_4_001,2,145,4,clench the teeth
+13-006203_0_001,1,24,0,sitting at rest
+13-006203_1_001,1,68,1,smile
+13-006203_2_001,0,96,2,frown
+13-006203_3_001,0,122,3,squeeze eyes tightly
+13-006203_4_001,1,116,4,clench the teeth
+13-000661_0_007,1,27,0,sitting at rest
+13-000661_1_007,1,76,1,smile
+13-000661_2_007,1,85,2,frown
+13-000661_3_007,0,86,3,squeeze eyes tightly
+13-000661_4_007,2,107,4,clench the teeth
+13-000662_0_007,1,31,0,sitting at rest
+13-000662_1_007,1,66,1,smile
+13-000662_2_007,0,130,2,frown
+13-000662_3_007,0,100,3,squeeze eyes tightly
+13-000662_4_007,1,60,4,clench the teeth
+13-001992_0_007,0,48,0,sitting at rest
+13-001992_1_007,0,41,1,smile
+13-001992_2_007,0,43,2,frown
+13-001992_3_007,0,93,3,squeeze eyes tightly
+13-001992_4_007,1,75,4,clench the teeth
+13-002006_0_007,0,41,0,sitting at rest
+13-002006_1_007,1,61,1,smile
+13-002006_2_007,0,35,2,frown
+13-002006_3_007,0,69,3,squeeze eyes tightly
+13-002006_4_007,2,75,4,clench the teeth
+13-003194_0_007,0,45,0,sitting at rest
+13-003194_1_007,0,46,1,smile
+13-003194_2_007,0,48,2,frown
+13-003194_3_007,0,82,3,squeeze eyes tightly
+13-003194_4_007,2,95,4,clench the teeth
+13-003195_0_007,0,29,0,sitting at rest
+13-003195_1_007,0,31,1,smile
+13-003195_2_007,0,38,2,frown
+13-003195_3_007,0,54,3,squeeze eyes tightly
+13-003195_4_007,0,53,4,clench the teeth
+13-004442_0_007,0,17,0,sitting at rest
+13-004442_1_007,1,73,1,smile
+13-004442_2_007,0,70,2,frown
+13-004442_3_007,0,86,3,squeeze eyes tightly
+13-004442_4_007,2,101,4,clench the teeth
+13-004450_0_007,0,13,0,sitting at rest
+13-004450_1_007,0,71,1,smile
+13-004450_2_007,0,70,2,frown
+13-004450_3_007,0,75,3,squeeze eyes tightly
+13-004450_4_007,2,89,4,clench the teeth
+13-005692_0_007,0,35,0,sitting at rest
+13-005692_1_007,0,60,1,smile
+13-005692_2_007,0,41,2,frown
+13-005692_3_007,0,75,3,squeeze eyes tightly
+13-005692_4_007,2,85,4,clench the teeth
+13-005722_0_007,0,12,0,sitting at rest
+13-005722_1_007,0,34,1,smile
+13-005722_2_007,0,35,2,frown
+13-005722_3_007,0,48,3,squeeze eyes tightly
+13-005722_4_007,0,50,4,clench the teeth
+13-006971_0_007,1,18,0,sitting at rest
+13-006971_1_007,0,67,1,smile
+13-006971_2_007,0,73,2,frown
+13-006971_3_007,0,81,3,squeeze eyes tightly
+13-006971_4_007,2,113,4,clench the teeth
+13-006987_0_007,0,17,0,sitting at rest
+13-006987_1_007,0,71,1,smile
+13-006987_2_007,0,85,2,frown
+13-006987_3_007,0,77,3,squeeze eyes tightly
+13-006987_4_007,2,102,4,clench the teeth
+14-000074_2_007,0,77,2,frown
+14-000074_3_007,0,78,3,squeeze eyes tightly
+14-000074_4_007,2,98,4,clench the teeth
+14-000076_0_007,0,16,0,sitting at rest
+14-000076_1_007,0,64,1,smile
+14-000076_2_007,0,71,2,frown
+14-000076_3_007,0,75,3,squeeze eyes tightly
+14-000076_4_007,2,80,4,clench the teeth
+13-006310_1_008,1,47,1,smile
+13-006310_2_008,3,118,2,frown
+13-006310_3_008,2,110,3,squeeze eyes tightly
+13-006310_4_008,1,123,4,clench the teeth
+13-006320_0_008,3,31,0,sitting at rest
+13-006320_1_008,3,64,1,smile
+13-006320_2_008,3,91,2,frown
+13-006320_3_008,2,57,3,squeeze eyes tightly
+13-006320_4_008,1,94,4,clench the teeth
+14-003944_0_008,3,37,0,sitting at rest
+14-003944_1_008,2,141,1,smile
+14-003944_2_008,3,129,2,frown
+14-003944_3_008,2,105,3,squeeze eyes tightly
+14-003944_4_008,0,155,4,clench the teeth
+14-003963_0_008,3,35,0,sitting at rest
+14-003963_1_008,0,69,1,smile
+14-003963_2_008,0,95,2,frown
+14-003963_3_008,1,102,3,squeeze eyes tightly
+14-003963_4_008,0,84,4,clench the teeth
+14-004930_0_008,0,37,0,sitting at rest
+14-004930_1_008,1,84,1,smile
+14-004930_2_008,1,103,2,frown
+14-004930_3_008,2,112,3,squeeze eyes tightly
+14-004930_4_008,1,117,4,clench the teeth
+14-004932_0_008,3,41,0,sitting at rest
+14-004932_1_008,1,65,1,smile
+14-004932_2_008,1,117,2,frown
+14-004932_3_008,1,141,3,squeeze eyes tightly
+14-005931_0_008,3,26,0,sitting at rest
+14-005931_1_008,2,69,1,smile
+14-005931_2_008,1,57,2,frown
+14-005931_3_008,0,105,3,squeeze eyes tightly
+14-005931_4_008,0,82,4,clench the teeth
+14-005938_0_008,3,18,0,sitting at rest
+14-005938_1_008,1,47,1,smile
+14-005938_3_008,1,97,3,squeeze eyes tightly
+14-005938_4_008,1,77,4,clench the teeth
+15-000278_0_008,3,30,0,sitting at rest
+15-000278_1_008,2,64,1,smile
+15-000278_2_008,1,64,2,frown
+15-000278_4_008,1,93,4,clench the teeth
+15-000290_0_008,0,21,0,sitting at rest
+15-000290_1_008,1,52,1,smile
+15-000290_3_008,1,78,3,squeeze eyes tightly
+15-000290_4_008,0,57,4,clench the teeth
+15-001767_0_008,3,69,0,sitting at rest
+15-001767_1_008,1,126,1,smile
+15-001767_2_008,0,152,2,frown
+15-001767_3_008,1,131,3,squeeze eyes tightly
+15-001767_4_008,0,172,4,clench the teeth
+15-001790_0_008,1,55,0,sitting at rest
+15-001790_1_008,1,95,1,smile
+15-001790_2_008,1,151,2,frown
+15-001790_3_008,2,143,3,squeeze eyes tightly
+15-003112_0_008,3,51,0,sitting at rest
+15-003112_1_008,1,99,1,smile
+15-003112_2_008,1,133,2,frown
+15-003112_3_008,1,148,3,squeeze eyes tightly
+15-003112_4_008,0,152,4,clench the teeth
+15-003139_0_008,3,25,0,sitting at rest
+15-003139_1_008,1,105,1,smile
+13-006556_0_009,0,44,0,sitting at rest
+13-006556_1_009,1,82,1,smile
+13-006556_2_009,2,120,2,frown
+13-006556_3_009,1,120,3,squeeze eyes tightly
+13-006556_4_009,2,106,4,clench the teeth
+13-006557_0_009,0,30,0,sitting at rest
+13-006557_1_009,0,80,1,smile
+13-006557_2_009,2,114,2,frown
+13-006557_3_009,1,115,3,squeeze eyes tightly
+13-006557_4_009,0,120,4,clench the teeth
+14-005893_0_009,1,32,0,sitting at rest
+14-005893_1_009,0,81,1,smile
+14-005893_2_009,2,103,2,frown
+14-005893_3_009,0,123,3,squeeze eyes tightly
+14-005893_4_009,2,113,4,clench the teeth
+14-005920_0_009,2,32,0,sitting at rest
+14-005920_1_009,0,62,1,smile
+14-005920_2_009,2,105,2,frown
+14-005920_3_009,1,96,3,squeeze eyes tightly
+14-005920_4_009,1,105,4,clench the teeth
+15-000237_0_009,0,28,0,sitting at rest
+15-000237_1_009,0,133,1,smile
+15-000237_2_009,1,110,2,frown
+15-000237_3_009,0,125,3,squeeze eyes tightly
+15-000237_4_009,2,135,4,clench the teeth
+15-000259_0_009,0,18,0,sitting at rest
+15-000259_1_009,0,77,1,smile
+15-000259_2_009,1,120,2,frown
+15-000259_3_009,1,133,3,squeeze eyes tightly
+15-000259_4_009,1,126,4,clench the teeth
+15-001746_0_009,1,14,0,sitting at rest
+15-001746_1_009,0,78,1,smile
+15-001746_2_009,2,130,2,frown
+15-001746_3_009,1,108,3,squeeze eyes tightly
+15-001746_4_009,2,115,4,clench the teeth
+15-001760_0_009,3,20,0,sitting at rest
+15-001760_1_009,3,65,1,smile
+15-001760_2_009,1,90,2,frown
+15-001760_3_009,1,116,3,squeeze eyes tightly
+15-001760_4_009,2,115,4,clench the teeth
+15-003061_0_009,0,28,0,sitting at rest
+15-003061_1_009,0,82,1,smile
+15-003061_2_009,1,97,2,frown
+15-003061_3_009,2,96,3,squeeze eyes tightly
+15-003061_4_009,2,138,4,clench the teeth
+15-003071_0_009,0,43,0,sitting at rest
+15-003071_1_009,0,80,1,smile
+15-003071_2_009,2,111,2,frown
+15-003071_3_009,2,124,3,squeeze eyes tightly
+15-003071_4_009,2,118,4,clench the teeth
+15-004796_0_009,0,53,0,sitting at rest
+15-004796_1_009,0,82,1,smile
+15-004796_2_009,1,120,2,frown
+15-004796_3_009,1,111,3,squeeze eyes tightly
+15-004796_4_009,1,116,4,clench the teeth
+15-004813_0_009,3,29,0,sitting at rest
+15-004813_1_009,0,62,1,smile
+15-004813_2_009,1,95,2,frown
+15-004813_3_009,1,110,3,squeeze eyes tightly
+15-004813_4_009,1,109,4,clench the teeth
+15-006366_0_009,1,18,0,sitting at rest
+15-006366_1_009,0,87,1,smile
+15-006366_2_009,2,109,2,frown
+15-006366_3_009,2,97,3,squeeze eyes tightly
+15-006366_4_009,1,127,4,clench the teeth
+15-006368_0_009,0,16,0,sitting at rest
+15-006368_1_009,0,57,1,smile
+15-006368_2_009,1,80,2,frown
+15-006368_3_009,0,77,3,squeeze eyes tightly
+15-006368_4_009,0,96,4,clench the teeth
+13-006817_0_011,0,29,0,sitting at rest
+13-006817_1_011,0,32,1,smile
+13-006817_2_011,2,61,2,frown
+13-006817_3_011,3,106,3,squeeze eyes tightly
+13-006817_4_011,1,113,4,clench the teeth
+13-006827_0_011,0,10,0,sitting at rest
+13-006827_1_011,0,29,1,smile
+13-006827_3_011,3,51,3,squeeze eyes tightly
+13-006827_4_011,1,81,4,clench the teeth
+14-004099_0_011,1,30,0,sitting at rest
+14-004099_1_011,0,70,1,smile
+14-004099_2_011,1,83,2,frown
+14-004099_3_011,3,126,3,squeeze eyes tightly
+14-004099_4_011,0,93,4,clench the teeth
+14-004101_0_011,0,44,0,sitting at rest
+14-004101_1_011,0,58,1,smile
+14-004101_2_011,1,78,2,frown
+14-004101_3_011,0,81,3,squeeze eyes tightly
+14-004101_4_011,0,79,4,clench the teeth
+14-005085_0_011,0,22,0,sitting at rest
+14-005085_1_011,1,58,1,smile
+14-005085_2_011,0,76,2,frown
+14-005085_3_011,1,74,3,squeeze eyes tightly
+14-005085_4_011,0,96,4,clench the teeth
+14-005086_0_011,0,19,0,sitting at rest
+14-005086_1_011,0,49,1,smile
+14-005086_2_011,1,78,2,frown
+14-005086_3_011,0,72,3,squeeze eyes tightly
+14-005086_4_011,0,74,4,clench the teeth
+14-006093_0_011,0,18,0,sitting at rest
+14-006093_1_011,0,69,1,smile
+14-006093_2_011,2,83,2,frown
+14-006093_3_011,1,96,3,squeeze eyes tightly
+14-006093_4_011,1,97,4,clench the teeth
+14-006107_0_011,0,24,0,sitting at rest
+14-006107_1_011,0,54,1,smile
+14-006107_2_011,1,78,2,frown
+14-006107_3_011,0,98,3,squeeze eyes tightly
+14-006107_4_011,0,82,4,clench the teeth
+15-000402_0_011,0,21,0,sitting at rest
+15-000402_1_011,0,64,1,smile
+15-000402_2_011,2,69,2,frown
+15-000402_3_011,1,83,3,squeeze eyes tightly
+15-000402_4_011,1,88,4,clench the teeth
+15-000412_0_011,0,41,0,sitting at rest
+15-000412_1_011,0,68,1,smile
+15-000412_2_011,1,85,2,frown
+15-000412_3_011,0,98,3,squeeze eyes tightly
+15-000412_4_011,0,86,4,clench the teeth
+15-001875_0_011,0,61,0,sitting at rest
+15-001875_1_011,0,77,1,smile
+15-001875_2_011,2,104,2,frown
+15-001875_3_011,0,106,3,squeeze eyes tightly
+15-001875_4_011,0,83,4,clench the teeth
+15-001908_0_011,0,29,0,sitting at rest
+15-001908_1_011,0,54,1,smile
+15-001908_2_011,1,50,2,frown
+15-001908_3_011,0,79,3,squeeze eyes tightly
+15-001908_4_011,0,84,4,clench the teeth
+15-003286_0_011,0,61,0,sitting at rest
+15-003286_1_011,1,69,1,smile
+15-003286_2_011,2,97,2,frown
+15-003286_3_011,1,101,3,squeeze eyes tightly
+15-003286_4_011,1,108,4,clench the teeth
+15-003300_0_011,0,13,0,sitting at rest
+15-003300_1_011,0,71,1,smile
+15-003300_2_011,1,86,2,frown
+15-003300_3_011,0,103,3,squeeze eyes tightly
+15-003300_4_011,1,95,4,clench the teeth
+13-007356_0_013,2,35,0,sitting at rest
+13-007356_1_013,1,78,1,smile
+13-007356_2_013,2,112,2,frown
+13-007356_3_013,1,96,3,squeeze eyes tightly
+13-007356_4_013,2,127,4,clench the teeth
+13-007365_0_013,1,28,0,sitting at rest
+13-007365_1_013,1,77,1,smile
+13-007365_2_013,2,83,2,frown
+13-007365_3_013,2,94,3,squeeze eyes tightly
+13-007365_4_013,1,109,4,clench the teeth
+14-003880_0_013,0,25,0,sitting at rest
+14-003880_1_013,1,90,1,smile
+14-003880_2_013,0,101,2,frown
+14-003880_3_013,1,126,3,squeeze eyes tightly
+14-003880_4_013,2,105,4,clench the teeth
+14-003881_0_013,1,19,0,sitting at rest
+14-003881_1_013,1,89,1,smile
+14-003881_2_013,1,42,2,frown
+14-003881_3_013,1,82,3,squeeze eyes tightly
+14-003881_4_013,2,78,4,clench the teeth
+14-004870_0_013,1,25,0,sitting at rest
+14-004870_1_013,2,71,1,smile
+14-004870_2_013,1,98,2,frown
+14-004870_3_013,2,117,3,squeeze eyes tightly
+14-004870_4_013,2,111,4,clench the teeth
+14-004899_0_013,0,34,0,sitting at rest
+14-004899_1_013,2,67,1,smile
+14-004899_2_013,1,87,2,frown
+14-004899_3_013,2,110,3,squeeze eyes tightly
+14-004899_4_013,2,102,4,clench the teeth
+14-005864_1_013,1,85,1,smile
+14-005864_2_013,1,96,2,frown
+14-005864_3_013,2,117,3,squeeze eyes tightly
+14-005864_4_013,2,110,4,clench the teeth
+14-005867_1_013,1,84,1,smile
+14-005867_2_013,2,99,2,frown
+14-005867_3_013,2,104,3,squeeze eyes tightly
+14-005867_4_013,2,106,4,clench the teeth
+15-000208_0_013,1,26,0,sitting at rest
+15-000208_1_013,2,85,1,smile
+15-000208_2_013,1,105,2,frown
+15-000208_3_013,2,120,3,squeeze eyes tightly
+15-000208_4_013,2,106,4,clench the teeth
+15-000213_0_013,0,23,0,sitting at rest
+15-000213_1_013,2,85,1,smile
+15-000213_2_013,1,101,2,frown
+15-000213_3_013,2,106,3,squeeze eyes tightly
+15-000213_4_013,1,90,4,clench the teeth
+15-001656_0_013,0,49,0,sitting at rest
+15-001656_1_013,2,78,1,smile
+15-001656_2_013,1,91,2,frown
+15-001656_3_013,1,121,3,squeeze eyes tightly
+15-001656_4_013,1,129,4,clench the teeth
+15-001685_0_013,1,33,0,sitting at rest
+15-001685_1_013,2,102,1,smile
+15-001685_2_013,2,92,2,frown
+15-001685_3_013,1,96,3,squeeze eyes tightly
+15-001685_4_013,2,114,4,clench the teeth
+15-003013_0_013,0,20,0,sitting at rest
+15-003013_1_013,1,67,1,smile
+15-003013_2_013,1,87,2,frown
+15-003013_3_013,1,72,3,squeeze eyes tightly
+15-003013_4_013,1,81,4,clench the teeth
+15-003024_0_013,1,30,0,sitting at rest
+15-003024_1_013,1,82,1,smile
+15-003024_2_013,1,76,2,frown
+15-003024_3_013,1,94,3,squeeze eyes tightly
+15-003024_4_013,0,68,4,clench the teeth
+13-007582_0_015,1,47,0,sitting at rest
+13-007582_1_015,2,102,1,smile
+13-007582_2_015,2,144,2,frown
+13-007582_3_015,2,90,3,squeeze eyes tightly
+13-007591_2_015,1,160,2,frown
+13-007591_3_015,1,131,3,squeeze eyes tightly
+14-004051_0_015,1,50,0,sitting at rest
+14-004051_1_015,2,94,1,smile
+14-004051_2_015,1,89,2,frown
+14-004051_3_015,1,147,3,squeeze eyes tightly
+14-004051_4_015,2,136,4,clench the teeth
+14-004052_0_015,0,15,0,sitting at rest
+14-004052_1_015,2,73,1,smile
+14-004052_2_015,1,88,2,frown
+14-004052_3_015,1,105,3,squeeze eyes tightly
+14-004052_4_015,1,84,4,clench the teeth
+14-005030_2_015,2,110,2,frown
+14-005030_3_015,2,121,3,squeeze eyes tightly
+14-005030_4_015,4,122,4,clench the teeth
+14-005037_0_015,1,33,0,sitting at rest
+14-005037_1_015,2,85,1,smile
+14-005037_2_015,2,120,2,frown
+14-005037_3_015,2,112,3,squeeze eyes tightly
+14-005037_4_015,2,113,4,clench the teeth
+14-006048_0_015,1,48,0,sitting at rest
+14-006048_1_015,2,136,1,smile
+14-006048_2_015,1,126,2,frown
+14-006048_3_015,1,117,3,squeeze eyes tightly
+14-006048_4_015,2,106,4,clench the teeth
+14-006069_0_015,1,31,0,sitting at rest
+14-006069_1_015,2,75,1,smile
+14-006069_2_015,1,127,2,frown
+14-006069_3_015,1,103,3,squeeze eyes tightly
+14-006069_4_015,1,107,4,clench the teeth
+15-000466_0_015,1,42,0,sitting at rest
+15-000466_1_015,2,77,1,smile
+15-000466_2_015,2,104,2,frown
+15-000466_3_015,1,102,3,squeeze eyes tightly
+15-000466_4_015,2,104,4,clench the teeth
+15-000475_0_015,1,22,0,sitting at rest
+15-000475_1_015,0,72,1,smile
+15-000475_2_015,1,99,2,frown
+15-000475_3_015,1,108,3,squeeze eyes tightly
+15-000475_4_015,2,114,4,clench the teeth
+15-001987_0_015,1,27,0,sitting at rest
+15-001987_1_015,2,77,1,smile
+15-001987_2_015,1,108,2,frown
+15-001987_4_015,1,133,4,clench the teeth
+15-001994_0_015,1,23,0,sitting at rest
+15-001994_1_015,0,87,1,smile
+15-001994_2_015,2,121,2,frown
+15-001994_3_015,1,133,3,squeeze eyes tightly
+15-001994_4_015,2,118,4,clench the teeth
+15-003582_0_015,0,22,0,sitting at rest
+15-003582_1_015,0,62,1,smile
+15-003582_2_015,1,97,2,frown
+15-003582_3_015,1,120,3,squeeze eyes tightly
+15-003582_4_015,2,114,4,clench the teeth
+15-003583_1_015,0,76,1,smile
+15-003583_2_015,1,108,2,frown
+15-003583_3_015,0,105,3,squeeze eyes tightly
+15-003583_4_015,1,105,4,clench the teeth
+15-003583_0_015,1,23,0,sitting at rest
+14-003489_0_022,2,42,0,sitting at rest
+14-003489_1_022,2,68,1,smile
+14-003489_2_022,1,85,2,frown
+14-003489_3_022,0,110,3,squeeze eyes tightly
+14-003489_4_022,1,80,4,clench the teeth
+14-003495_0_022,1,28,0,sitting at rest
+14-003495_1_022,2,76,1,smile
+14-003495_2_022,0,59,2,frown
+14-003495_3_022,1,77,3,squeeze eyes tightly
+14-003495_4_022,1,73,4,clench the teeth
+14-005197_0_022,2,30,0,sitting at rest
+14-005197_1_022,2,99,1,smile
+14-006542_0_022,3,64,0,sitting at rest
+14-006542_1_022,1,88,1,smile
+14-006542_2_022,0,79,2,frown
+14-006542_3_022,0,88,3,squeeze eyes tightly
+14-006542_4_022,0,76,4,clench the teeth
+14-006570_0_022,1,41,0,sitting at rest
+14-006570_1_022,1,54,1,smile
+14-006570_2_022,1,41,2,frown
+14-006570_3_022,0,84,3,squeeze eyes tightly
+14-006570_4_022,0,77,4,clench the teeth
+15-000943_0_022,1,38,0,sitting at rest
+15-000943_1_022,2,80,1,smile
+15-000943_2_022,1,94,2,frown
+15-000943_3_022,1,106,3,squeeze eyes tightly
+15-000943_4_022,1,118,4,clench the teeth
+15-000966_0_022,0,42,0,sitting at rest
+15-000966_1_022,1,97,1,smile
+15-000966_2_022,0,99,2,frown
+15-000966_3_022,1,110,3,squeeze eyes tightly
+15-000966_4_022,1,128,4,clench the teeth
+15-002790_0_022,2,31,0,sitting at rest
+15-002790_1_022,2,74,1,smile
+15-002790_2_022,1,91,2,frown
+15-002790_3_022,1,107,3,squeeze eyes tightly
+15-002790_4_022,0,123,4,clench the teeth
+15-002802_0_022,1,25,0,sitting at rest
+15-002802_1_022,1,90,1,smile
+15-002802_2_022,0,105,2,frown
+15-002802_3_022,1,112,3,squeeze eyes tightly
+15-002802_4_022,0,106,4,clench the teeth
+15-003983_0_022,0,27,0,sitting at rest
+15-003983_1_022,1,83,1,smile
+15-003983_2_022,1,104,2,frown
+15-003983_3_022,0,101,3,squeeze eyes tightly
+15-003983_4_022,1,103,4,clench the teeth
+15-003992_0_022,1,24,0,sitting at rest
+15-003992_1_022,1,79,1,smile
+15-003992_2_022,0,100,2,frown
+15-003992_3_022,0,109,3,squeeze eyes tightly
+15-003992_4_022,0,111,4,clench the teeth
+15-005663_0_022,0,32,0,sitting at rest
+15-005663_1_022,1,121,1,smile
+15-007715_0_022,0,28,0,sitting at rest
+15-007715_1_022,2,65,1,smile
+15-007715_2_022,1,78,2,frown
+15-007715_3_022,1,84,3,squeeze eyes tightly
+15-007715_4_022,0,96,4,clench the teeth
+15-007723_0_022,1,22,0,sitting at rest
+15-007723_1_022,2,77,1,smile
+15-007723_2_022,1,90,2,frown
+15-007723_3_022,1,122,3,squeeze eyes tightly
+15-007723_4_022,2,127,4,clench the teeth
+14-005956_0_024,2,40,0,sitting at rest
+14-005956_1_024,2,98,1,smile
+14-005956_2_024,3,135,2,frown
+14-005956_3_024,2,136,3,squeeze eyes tightly
+14-005956_4_024,2,129,4,clench the teeth
+14-005960_0_024,1,21,0,sitting at rest
+14-005960_1_024,1,60,1,smile
+14-005960_2_024,1,98,2,frown
+14-005960_3_024,1,96,3,squeeze eyes tightly
+14-005960_4_024,1,100,4,clench the teeth
+15-001657_0_024,1,46,0,sitting at rest
+15-001657_1_024,2,85,1,smile
+15-001657_2_024,3,131,2,frown
+15-001657_3_024,3,147,3,squeeze eyes tightly
+15-001657_4_024,3,131,4,clench the teeth
+15-001686_0_024,1,30,0,sitting at rest
+15-001686_1_024,2,69,1,smile
+15-001686_2_024,3,87,2,frown
+15-001686_3_024,1,95,3,squeeze eyes tightly
+15-001686_4_024,1,86,4,clench the teeth
+15-003012_0_024,2,27,0,sitting at rest
+15-003012_1_024,3,93,1,smile
+15-003012_2_024,3,85,2,frown
+15-003012_3_024,3,123,3,squeeze eyes tightly
+15-003012_4_024,2,148,4,clench the teeth
+15-003022_0_024,1,24,0,sitting at rest
+15-003022_2_024,2,73,2,frown
+15-003022_3_024,1,73,3,squeeze eyes tightly
+15-003022_4_024,0,80,4,clench the teeth
+15-004874_0_024,3,21,0,sitting at rest
+15-004874_1_024,2,83,1,smile
+15-004874_2_024,2,110,2,frown
+15-004874_3_024,3,115,3,squeeze eyes tightly
+15-004874_4_024,3,130,4,clench the teeth
+15-004876_0_024,1,36,0,sitting at rest
+15-004876_1_024,1,77,1,smile
+15-004876_2_024,2,94,2,frown
+15-004876_3_024,1,99,3,squeeze eyes tightly
+15-004876_4_024,1,106,4,clench the teeth
+15-006455_1_024,2,74,1,smile
+15-006455_2_024,3,81,2,frown
+15-006455_3_024,2,118,3,squeeze eyes tightly
+15-006455_4_024,2,113,4,clench the teeth
+15-006456_0_024,2,17,0,sitting at rest
+15-006456_1_024,1,60,1,smile
+15-006456_2_024,2,74,2,frown
+15-006456_3_024,2,98,3,squeeze eyes tightly
+15-006456_4_024,1,98,4,clench the teeth
+15-007995_0_024,3,31,0,sitting at rest
+15-007995_1_024,2,95,1,smile
+15-007995_2_024,3,113,2,frown
+15-007995_3_024,3,115,3,squeeze eyes tightly
+15-007995_4_024,3,129,4,clench the teeth
+15-008004_0_024,1,19,0,sitting at rest
+15-008004_1_024,1,62,1,smile
+15-008004_2_024,2,86,2,frown
+15-008004_3_024,1,105,3,squeeze eyes tightly
+15-008004_4_024,1,145,4,clench the teeth
+15-009598_0_024,3,29,0,sitting at rest
+15-009598_1_024,2,91,1,smile
+15-009598_2_024,3,106,2,frown
+15-009598_3_024,3,133,3,squeeze eyes tightly
+15-009598_4_024,3,136,4,clench the teeth
+15-009615_0_024,0,34,0,sitting at rest
+15-009615_1_024,1,68,1,smile
+15-009615_2_024,1,99,2,frown
+15-009615_3_024,0,108,3,squeeze eyes tightly
+15-009615_4_024,1,111,4,clench the teeth
+14-001917_0_026,2,38,0,sitting at rest
+14-001917_1_026,2,49,1,smile
+14-001917_2_026,1,55,2,frown
+14-001917_3_026,1,77,3,squeeze eyes tightly
+14-001917_4_026,1,119,4,clench the teeth
+14-001918_2_026,3,93,2,frown
+14-001918_3_026,3,147,3,squeeze eyes tightly
+14-001918_4_026,2,85,4,clench the teeth
+14-004627_0_026,1,60,0,sitting at rest
+14-004627_1_026,1,71,1,smile
+14-004627_2_026,2,99,2,frown
+14-004627_3_026,3,118,3,squeeze eyes tightly
+14-004627_4_026,2,127,4,clench the teeth
+14-004642_0_026,1,29,0,sitting at rest
+14-004642_1_026,1,76,1,smile
+14-004642_2_026,2,97,2,frown
+14-004642_3_026,3,130,3,squeeze eyes tightly
+14-004642_4_026,3,111,4,clench the teeth
+14-005686_0_026,1,59,0,sitting at rest
+14-005686_1_026,3,106,1,smile
+14-005686_2_026,1,97,2,frown
+14-005686_4_026,2,81,4,clench the teeth
+14-005690_0_026,1,28,0,sitting at rest
+14-005690_1_026,3,27,1,smile
+14-005690_2_026,2,44,2,frown
+14-005690_3_026,1,122,3,squeeze eyes tightly
+14-005690_4_026,2,80,4,clench the teeth
+14-006792_0_026,3,47,0,sitting at rest
+14-006792_1_026,2,110,1,smile
+14-006792_2_026,3,112,2,frown
+14-006792_3_026,1,124,3,squeeze eyes tightly
+14-006792_4_026,3,99,4,clench the teeth
+14-006793_0_026,2,44,0,sitting at rest
+14-006793_1_026,2,78,1,smile
+14-006793_2_026,1,95,2,frown
+14-006793_3_026,1,95,3,squeeze eyes tightly
+14-006793_4_026,1,86,4,clench the teeth
+15-001334_0_026,2,45,0,sitting at rest
+15-001334_1_026,1,106,1,smile
+15-001334_2_026,2,124,2,frown
+15-001334_3_026,2,114,3,squeeze eyes tightly
+15-001334_4_026,2,172,4,clench the teeth
+15-001335_0_026,1,49,0,sitting at rest
+15-001335_1_026,1,112,1,smile
+15-001335_2_026,2,101,2,frown
+15-001335_3_026,1,112,3,squeeze eyes tightly
+15-001335_4_026,1,108,4,clench the teeth
+15-002752_0_026,2,49,0,sitting at rest
+15-002752_1_026,3,85,1,smile
+15-002752_2_026,2,104,2,frown
+15-002752_3_026,2,111,3,squeeze eyes tightly
+15-002752_4_026,3,113,4,clench the teeth
+15-002759_0_026,1,41,0,sitting at rest
+15-002759_1_026,2,102,1,smile
+15-002759_2_026,2,113,2,frown
+15-002759_3_026,1,103,3,squeeze eyes tightly
+15-002759_4_026,2,114,4,clench the teeth
+15-004329_0_026,3,24,0,sitting at rest
+15-004329_1_026,2,90,1,smile
+15-004329_2_026,3,103,2,frown
+15-004329_3_026,2,133,3,squeeze eyes tightly
+15-004329_4_026,2,129,4,clench the teeth
+15-004338_0_026,2,20,0,sitting at rest
+15-004338_1_026,1,97,1,smile
+15-004338_2_026,2,110,2,frown
+15-004338_3_026,1,102,3,squeeze eyes tightly
+15-004338_4_026,2,116,4,clench the teeth
+14-002006_0_027,3,30,0,sitting at rest
+14-002006_1_027,4,49,1,smile
+14-002006_2_027,3,109,2,frown
+14-002006_3_027,3,201,3,squeeze eyes tightly
+14-002008_0_027,2,33,0,sitting at rest
+14-002008_1_027,2,101,1,smile
+14-002008_2_027,3,108,2,frown
+14-002008_3_027,2,132,3,squeeze eyes tightly
+14-004820_0_027,3,68,0,sitting at rest
+14-004820_1_027,4,91,1,smile
+14-004820_2_027,3,102,2,frown
+14-004820_3_027,3,164,3,squeeze eyes tightly
+14-004820_4_027,2,82,4,clench the teeth
+14-004821_0_027,3,21,0,sitting at rest
+14-004821_1_027,4,59,1,smile
+14-004821_2_027,3,66,2,frown
+14-004821_3_027,3,97,3,squeeze eyes tightly
+14-004821_4_027,2,82,4,clench the teeth
+14-005805_0_027,4,27,0,sitting at rest
+14-005805_1_027,3,65,1,smile
+14-005805_2_027,3,118,2,frown
+14-005805_3_027,3,123,3,squeeze eyes tightly
+14-005805_4_027,2,124,4,clench the teeth
+14-005822_0_027,4,20,0,sitting at rest
+14-005822_1_027,3,77,1,smile
+14-005822_2_027,2,105,2,frown
+14-005822_3_027,3,97,3,squeeze eyes tightly
+14-005822_4_027,4,120,4,clench the teeth
+15-000125_0_027,4,39,0,sitting at rest
+15-000125_1_027,3,80,1,smile
+15-000125_2_027,3,148,2,frown
+15-000125_3_027,3,123,3,squeeze eyes tightly
+15-000125_4_027,3,113,4,clench the teeth
+15-000143_0_027,4,23,0,sitting at rest
+15-000143_1_027,3,81,1,smile
+15-000143_2_027,2,99,2,frown
+15-000143_3_027,2,110,3,squeeze eyes tightly
+15-000143_4_027,3,107,4,clench the teeth
+15-001578_0_027,4,48,0,sitting at rest
+15-001578_1_027,3,78,1,smile
+15-001578_2_027,4,107,2,frown
+15-001578_3_027,4,122,3,squeeze eyes tightly
+15-001578_4_027,4,100,4,clench the teeth
+15-001591_0_027,4,59,0,sitting at rest
+15-001591_1_027,4,77,1,smile
+15-001591_2_027,3,132,2,frown
+15-001591_3_027,4,118,3,squeeze eyes tightly
+15-001591_4_027,3,112,4,clench the teeth
+15-002970_0_027,4,41,0,sitting at rest
+15-002970_1_027,3,73,1,smile
+15-002970_2_027,3,114,2,frown
+15-002970_3_027,3,122,3,squeeze eyes tightly
+15-002970_4_027,3,121,4,clench the teeth
+15-002978_0_027,3,51,0,sitting at rest
+15-002978_1_027,3,97,1,smile
+15-002978_2_027,3,139,2,frown
+15-002978_3_027,2,124,3,squeeze eyes tightly
+15-002978_4_027,3,158,4,clench the teeth
+15-004635_0_027,3,47,0,sitting at rest
+15-004635_1_027,2,106,1,smile
+15-004635_2_027,3,115,2,frown
+15-004635_3_027,3,127,3,squeeze eyes tightly
+15-004635_4_027,3,153,4,clench the teeth
+15-004640_0_027,4,27,0,sitting at rest
+15-004640_1_027,3,100,1,smile
+15-004640_2_027,2,141,2,frown
+15-004640_3_027,4,137,3,squeeze eyes tightly
+15-004640_4_027,4,165,4,clench the teeth
+14-003787_0_029,1,70,0,sitting at rest
+14-003787_1_029,1,105,1,smile
+14-003787_2_029,2,151,2,frown
+14-003787_3_029,1,137,3,squeeze eyes tightly
+14-003789_0_029,2,41,0,sitting at rest
+14-003789_1_029,3,114,1,smile
+14-003789_2_029,2,116,2,frown
+14-003789_3_029,2,130,3,squeeze eyes tightly
+14-006148_0_029,2,33,0,sitting at rest
+14-006148_1_029,3,129,1,smile
+14-006148_2_029,2,109,2,frown
+14-006148_3_029,2,138,3,squeeze eyes tightly
+14-006148_4_029,2,157,4,clench the teeth
+14-006180_0_029,2,35,0,sitting at rest
+14-006180_1_029,3,110,1,smile
+14-006180_2_029,2,92,2,frown
+14-006180_3_029,2,101,3,squeeze eyes tightly
+14-006180_4_029,2,104,4,clench the teeth
+15-001149_0_029,4,73,0,sitting at rest
+15-001149_1_029,3,105,1,smile
+15-001149_2_029,3,122,2,frown
+15-001149_3_029,2,90,3,squeeze eyes tightly
+15-001149_4_029,3,163,4,clench the teeth
+15-001176_0_029,3,30,0,sitting at rest
+15-001176_1_029,3,88,1,smile
+15-001176_2_029,3,75,2,frown
+15-001176_3_029,2,108,3,squeeze eyes tightly
+15-001176_4_029,2,88,4,clench the teeth
+15-002628_0_029,3,27,0,sitting at rest
+15-002628_1_029,3,81,1,smile
+15-002628_2_029,2,94,2,frown
+15-002628_3_029,2,102,3,squeeze eyes tightly
+15-002628_4_029,2,106,4,clench the teeth
+15-002633_0_029,3,45,0,sitting at rest
+15-002633_1_029,3,67,1,smile
+15-002633_2_029,2,90,2,frown
+15-002633_3_029,2,99,3,squeeze eyes tightly
+15-002633_4_029,3,101,4,clench the teeth
+15-004180_0_029,3,30,0,sitting at rest
+15-004180_1_029,2,87,1,smile
+15-004180_2_029,1,118,2,frown
+15-004180_3_029,1,127,3,squeeze eyes tightly
+15-004180_4_029,2,129,4,clench the teeth
+15-004191_0_029,3,26,0,sitting at rest
+15-004191_1_029,1,131,1,smile
+15-004191_2_029,1,88,2,frown
+15-004191_3_029,2,100,3,squeeze eyes tightly
+15-004191_4_029,2,141,4,clench the teeth
+15-005830_0_029,3,26,0,sitting at rest
+15-005830_1_029,3,82,1,smile
+15-005830_2_029,1,110,2,frown
+15-005830_3_029,1,121,3,squeeze eyes tightly
+15-005830_4_029,2,127,4,clench the teeth
+15-005847_1_029,3,76,1,smile
+15-005847_2_029,1,96,2,frown
+15-005847_3_029,1,93,3,squeeze eyes tightly
+15-005847_4_029,2,93,4,clench the teeth
+15-007338_0_029,3,62,0,sitting at rest
+15-007338_1_029,2,73,1,smile
+15-007338_2_029,2,96,2,frown
+15-007338_3_029,1,101,3,squeeze eyes tightly
+15-007338_4_029,2,128,4,clench the teeth
+15-007339_0_029,2,57,0,sitting at rest
+15-007339_1_029,3,74,1,smile
+15-007339_2_029,1,93,2,frown
+15-007339_3_029,1,103,3,squeeze eyes tightly
+15-007339_4_029,2,125,4,clench the teeth
+15-009052_0_029,4,32,0,sitting at rest
+15-009052_1_029,3,82,1,smile
+15-009052_2_029,2,49,2,frown
+15-009052_3_029,1,72,3,squeeze eyes tightly
+15-009052_4_029,2,98,4,clench the teeth
+15-009053_0_029,3,17,0,sitting at rest
+15-009053_1_029,2,71,1,smile
+15-009053_2_029,2,54,2,frown
+15-009053_3_029,1,80,3,squeeze eyes tightly
+15-009053_4_029,2,71,4,clench the teeth
+14-003719_0_030,2,62,0,sitting at rest
+14-003719_1_030,2,131,1,smile
+14-003719_2_030,2,142,2,frown
+14-003719_3_030,0,163,3,squeeze eyes tightly
+14-003719_4_030,2,160,4,clench the teeth
+14-003720_0_030,1,39,0,sitting at rest
+14-003720_1_030,3,110,1,smile
+14-003720_2_030,2,146,2,frown
+14-003720_3_030,0,173,3,squeeze eyes tightly
+14-003720_4_030,3,123,4,clench the teeth
+14-005150_0_030,3,64,0,sitting at rest
+14-005150_1_030,1,64,1,smile
+14-005150_2_030,4,142,2,frown
+14-005150_3_030,2,117,3,squeeze eyes tightly
+14-005150_4_030,3,119,4,clench the teeth
+14-005153_0_030,2,39,0,sitting at rest
+14-005153_1_030,1,90,1,smile
+14-005153_2_030,3,118,2,frown
+14-005153_3_030,2,108,3,squeeze eyes tightly
+14-005153_4_030,1,104,4,clench the teeth
+15-000672_0_030,3,29,0,sitting at rest
+15-000672_1_030,1,88,1,smile
+15-000672_2_030,1,121,2,frown
+15-000672_3_030,2,123,3,squeeze eyes tightly
+15-000672_4_030,2,127,4,clench the teeth
+15-000674_0_030,1,26,0,sitting at rest
+15-000674_1_030,2,81,1,smile
+15-000674_2_030,1,147,2,frown
+15-000674_3_030,3,136,3,squeeze eyes tightly
+15-000674_4_030,2,138,4,clench the teeth
+15-002204_0_030,2,77,0,sitting at rest
+15-002204_1_030,3,70,1,smile
+15-002204_2_030,1,135,2,frown
+15-002204_3_030,1,107,3,squeeze eyes tightly
+15-002204_4_030,2,128,4,clench the teeth
+15-002205_0_030,2,45,0,sitting at rest
+15-002205_1_030,2,70,1,smile
+15-002205_2_030,0,112,2,frown
+15-002205_3_030,1,91,3,squeeze eyes tightly
+15-002205_4_030,1,83,4,clench the teeth
+15-003621_0_030,1,36,0,sitting at rest
+15-003621_1_030,0,81,1,smile
+15-003621_2_030,2,93,2,frown
+15-003621_3_030,0,120,3,squeeze eyes tightly
+15-003621_4_030,2,130,4,clench the teeth
+15-003643_0_030,3,51,0,sitting at rest
+15-003643_1_030,1,74,1,smile
+15-003643_2_030,3,128,2,frown
+15-003643_3_030,1,123,3,squeeze eyes tightly
+15-003643_4_030,3,126,4,clench the teeth
+15-005323_0_030,1,45,0,sitting at rest
+15-005323_1_030,0,102,1,smile
+15-005323_3_030,0,124,3,squeeze eyes tightly
+15-005323_4_030,2,129,4,clench the teeth
+15-005368_0_030,1,50,0,sitting at rest
+15-005368_1_030,1,95,1,smile
+15-005368_2_030,2,130,2,frown
+15-005368_3_030,0,117,3,squeeze eyes tightly
+15-005368_4_030,2,118,4,clench the teeth
+15-006854_0_030,3,36,0,sitting at rest
+15-006854_1_030,1,78,1,smile
+15-006854_2_030,3,120,2,frown
+15-006854_3_030,0,135,3,squeeze eyes tightly
+15-006854_4_030,1,104,4,clench the teeth
+15-006857_0_030,1,27,0,sitting at rest
+15-006857_1_030,1,75,1,smile
+15-006857_2_030,3,123,2,frown
+15-006857_3_030,2,129,3,squeeze eyes tightly
+15-006857_4_030,3,143,4,clench the teeth
+15-008525_0_030,2,36,0,sitting at rest
+15-008525_1_030,1,67,1,smile
+15-008525_2_030,1,105,2,frown
+15-008525_3_030,1,115,3,squeeze eyes tightly
+15-008525_4_030,2,125,4,clench the teeth
+15-008561_0_030,2,36,0,sitting at rest
+15-008561_1_030,1,66,1,smile
+15-008561_2_030,0,90,2,frown
+15-008561_3_030,2,93,3,squeeze eyes tightly
+15-008561_4_030,1,119,4,clench the teeth
+14-005721_0_036,1,37,0,sitting at rest
+14-005721_1_036,4,219,1,smile
+14-005721_2_036,2,142,2,frown
+14-005721_3_036,4,102,3,squeeze eyes tightly
+14-005721_4_036,2,150,4,clench the teeth
+14-005724_0_036,2,25,0,sitting at rest
+14-005724_1_036,2,72,1,smile
+14-005724_2_036,1,135,2,frown
+14-005724_3_036,2,122,3,squeeze eyes tightly
+14-005724_4_036,3,127,4,clench the teeth
+15-000570_0_036,2,84,0,sitting at rest
+15-000570_1_036,4,105,1,smile
+15-000570_2_036,3,179,2,frown
+15-000570_3_036,1,137,3,squeeze eyes tightly
+15-000570_4_036,2,133,4,clench the teeth
+15-000587_0_036,2,36,0,sitting at rest
+15-000587_1_036,2,63,1,smile
+15-000587_2_036,1,133,2,frown
+15-000587_3_036,1,128,3,squeeze eyes tightly
+15-000587_4_036,2,134,4,clench the teeth
+15-003425_0_036,1,55,0,sitting at rest
+15-003425_1_036,3,71,1,smile
+15-003425_2_036,2,116,2,frown
+15-003425_3_036,1,133,3,squeeze eyes tightly
+15-003425_4_036,2,143,4,clench the teeth
+15-003454_0_036,2,68,0,sitting at rest
+15-003454_1_036,2,93,1,smile
+15-003454_2_036,2,133,2,frown
+15-003454_3_036,2,135,3,squeeze eyes tightly
+15-003454_4_036,3,120,4,clench the teeth
+15-005153_0_036,3,53,0,sitting at rest
+15-005153_1_036,3,71,1,smile
+15-005153_2_036,2,123,2,frown
+15-005153_3_036,2,225,3,squeeze eyes tightly
+15-005153_4_036,2,145,4,clench the teeth
+15-005181_0_036,2,51,0,sitting at rest
+15-005181_1_036,3,64,1,smile
+15-005181_2_036,2,96,2,frown
+15-005181_3_036,2,120,3,squeeze eyes tightly
+15-005181_4_036,1,120,4,clench the teeth
+15-006666_0_036,2,54,0,sitting at rest
+15-006666_1_036,4,92,1,smile
+15-006666_2_036,1,85,2,frown
+15-006666_3_036,1,112,3,squeeze eyes tightly
+15-006666_4_036,2,112,4,clench the teeth
+15-006681_0_036,1,37,0,sitting at rest
+15-006681_1_036,3,92,1,smile
+15-006681_2_036,2,101,2,frown
+15-006681_3_036,2,103,3,squeeze eyes tightly
+15-006681_4_036,2,77,4,clench the teeth
+15-008248_0_036,2,31,0,sitting at rest
+15-008248_1_036,4,71,1,smile
+15-008248_2_036,1,108,2,frown
+15-008248_3_036,1,113,3,squeeze eyes tightly
+15-008248_4_036,3,101,4,clench the teeth
+15-008265_0_036,3,39,0,sitting at rest
+15-008265_1_036,3,67,1,smile
+15-008265_2_036,2,93,2,frown
+15-008265_3_036,1,93,3,squeeze eyes tightly
+15-008265_4_036,2,89,4,clench the teeth
+15-009915_0_036,2,58,0,sitting at rest
+15-009915_1_036,3,85,1,smile
+15-009915_2_036,2,122,2,frown
+15-009915_3_036,1,180,3,squeeze eyes tightly
+15-009915_4_036,3,137,4,clench the teeth
+15-009917_0_036,2,35,0,sitting at rest
+15-009917_1_036,4,76,1,smile
+15-009917_2_036,2,100,2,frown
+15-009917_3_036,2,114,3,squeeze eyes tightly
+15-009917_4_036,3,124,4,clench the teeth
+16-001421_0_036,3,75,0,sitting at rest
+16-001421_1_036,4,89,1,smile
+16-001421_2_036,4,63,2,frown
+16-001421_3_036,1,98,3,squeeze eyes tightly
+16-001421_4_036,2,112,4,clench the teeth
+16-001432_0_036,3,27,0,sitting at rest
+16-001432_1_036,3,63,1,smile
+16-001432_2_036,2,73,2,frown
+16-001432_3_036,2,117,3,squeeze eyes tightly
+16-001432_4_036,3,91,4,clench the teeth
+15-000236_0_037,1,45,0,sitting at rest
+15-000236_1_037,2,81,1,smile
+15-000236_2_037,1,133,2,frown
+15-000236_3_037,1,137,3,squeeze eyes tightly
+15-000236_4_037,2,118,4,clench the teeth
+15-000258_0_037,1,33,0,sitting at rest
+15-000258_1_037,1,88,1,smile
+15-000258_2_037,3,127,2,frown
+15-000258_3_037,1,124,3,squeeze eyes tightly
+15-000258_4_037,3,118,4,clench the teeth
+15-003483_0_037,1,33,0,sitting at rest
+15-003483_1_037,0,84,1,smile
+15-003483_2_037,1,170,2,frown
+15-003483_3_037,2,142,3,squeeze eyes tightly
+15-003483_4_037,1,147,4,clench the teeth
+15-003515_0_037,3,58,0,sitting at rest
+15-003515_1_037,2,81,1,smile
+15-003515_2_037,2,132,2,frown
+15-003515_3_037,1,131,3,squeeze eyes tightly
+15-003515_4_037,3,158,4,clench the teeth
+15-005264_0_037,1,25,0,sitting at rest
+15-005264_1_037,1,59,1,smile
+15-005264_2_037,2,91,2,frown
+15-005264_3_037,2,121,3,squeeze eyes tightly
+15-005264_4_037,2,129,4,clench the teeth
+15-005281_0_037,1,20,0,sitting at rest
+15-005281_1_037,1,93,1,smile
+15-005281_2_037,2,108,2,frown
+15-005281_3_037,3,138,3,squeeze eyes tightly
+15-005281_4_037,1,135,4,clench the teeth
+15-006789_0_037,2,38,0,sitting at rest
+15-006789_1_037,2,83,1,smile
+15-006789_2_037,2,89,2,frown
+15-006789_3_037,0,122,3,squeeze eyes tightly
+15-006789_4_037,1,135,4,clench the teeth
+15-006800_0_037,1,48,0,sitting at rest
+15-006800_1_037,1,82,1,smile
+15-006800_2_037,2,133,2,frown
+15-006800_4_037,2,152,4,clench the teeth
+15-008454_0_037,1,28,0,sitting at rest
+15-008454_1_037,2,80,1,smile
+15-008454_2_037,2,105,2,frown
+15-008454_3_037,3,131,3,squeeze eyes tightly
+15-008454_4_037,2,145,4,clench the teeth
+15-008464_0_037,3,26,0,sitting at rest
+15-008464_1_037,1,60,1,smile
+15-008464_2_037,3,110,2,frown
+15-008464_3_037,0,101,3,squeeze eyes tightly
+15-008464_4_037,1,124,4,clench the teeth
+15-009973_0_037,2,65,0,sitting at rest
+15-009973_1_037,2,66,1,smile
+15-009973_2_037,2,96,2,frown
+15-009973_3_037,0,136,3,squeeze eyes tightly
+15-009973_4_037,1,125,4,clench the teeth
+15-009979_0_037,1,40,0,sitting at rest
+15-009979_1_037,1,71,1,smile
+15-009979_2_037,2,106,2,frown
+15-009979_3_037,0,112,3,squeeze eyes tightly
+15-009979_4_037,2,130,4,clench the teeth
+16-001535_0_037,2,30,0,sitting at rest
+16-001535_1_037,2,73,1,smile
+16-001535_2_037,2,99,2,frown
+16-001535_3_037,2,112,3,squeeze eyes tightly
+16-001535_4_037,3,108,4,clench the teeth
+16-001545_0_037,2,28,0,sitting at rest
+16-001545_1_037,2,80,1,smile
+16-001545_2_037,2,126,2,frown
+16-001545_3_037,2,124,3,squeeze eyes tightly
+16-001545_4_037,2,122,4,clench the teeth
+14-005767_0_038,2,32,0,sitting at rest
+14-005767_1_038,3,79,1,smile
+14-005767_2_038,4,122,2,frown
+14-005767_3_038,4,206,3,squeeze eyes tightly
+14-005767_4_038,2,206,4,clench the teeth
+14-005772_0_038,2,33,0,sitting at rest
+14-005772_1_038,3,95,1,smile
+14-005772_2_038,4,84,2,frown
+14-005772_3_038,3,147,3,squeeze eyes tightly
+14-005772_4_038,2,138,4,clench the teeth
+15-000690_0_038,1,34,0,sitting at rest
+15-000690_1_038,3,102,1,smile
+15-000690_3_038,1,137,3,squeeze eyes tightly
+15-000690_4_038,2,210,4,clench the teeth
+15-000711_0_038,1,52,0,sitting at rest
+15-000711_1_038,2,85,1,smile
+15-000711_2_038,3,99,2,frown
+15-000711_3_038,1,104,3,squeeze eyes tightly
+15-000711_4_038,1,112,4,clench the teeth
+15-002230_0_038,1,40,0,sitting at rest
+15-002230_1_038,3,80,1,smile
+15-002230_2_038,3,121,2,frown
+15-002230_3_038,1,108,3,squeeze eyes tightly
+15-002230_4_038,2,100,4,clench the teeth
+15-002231_0_038,1,46,0,sitting at rest
+15-002231_1_038,2,69,1,smile
+15-002231_2_038,2,109,2,frown
+15-002231_3_038,1,95,3,squeeze eyes tightly
+15-002231_4_038,2,86,4,clench the teeth
+15-003620_0_038,1,47,0,sitting at rest
+15-003620_1_038,3,73,1,smile
+15-003620_2_038,2,112,2,frown
+15-003620_3_038,2,113,3,squeeze eyes tightly
+15-003620_4_038,2,129,4,clench the teeth
+15-003638_0_038,2,32,0,sitting at rest
+15-003638_1_038,2,73,1,smile
+15-003638_2_038,2,95,2,frown
+15-003638_3_038,0,141,3,squeeze eyes tightly
+15-003638_4_038,2,128,4,clench the teeth
+15-005313_0_038,1,34,0,sitting at rest
+15-005313_1_038,2,74,1,smile
+15-005313_2_038,3,97,2,frown
+15-005313_3_038,1,120,3,squeeze eyes tightly
+15-005313_4_038,0,156,4,clench the teeth
+15-005334_0_038,0,27,0,sitting at rest
+15-005334_1_038,1,81,1,smile
+15-005334_2_038,1,85,2,frown
+15-005334_3_038,2,136,3,squeeze eyes tightly
+15-005334_4_038,1,131,4,clench the teeth
+15-006855_0_038,1,51,0,sitting at rest
+15-006855_1_038,1,83,1,smile
+15-006855_2_038,2,116,2,frown
+15-006855_3_038,0,121,3,squeeze eyes tightly
+15-006855_4_038,2,145,4,clench the teeth
+15-006875_0_038,1,33,0,sitting at rest
+15-006875_1_038,2,88,1,smile
+15-006875_2_038,2,94,2,frown
+15-006875_3_038,1,108,3,squeeze eyes tightly
+15-006875_4_038,2,123,4,clench the teeth
+15-008602_0_038,0,21,0,sitting at rest
+15-008602_1_038,3,78,1,smile
+15-008602_2_038,2,62,2,frown
+15-008602_3_038,1,90,3,squeeze eyes tightly
+15-008602_4_038,1,116,4,clench the teeth
+15-008617_0_038,1,22,0,sitting at rest
+15-008617_1_038,2,130,1,smile
+15-008617_2_038,2,113,2,frown
+15-008617_3_038,2,121,3,squeeze eyes tightly
+15-008617_4_038,1,74,4,clench the teeth
+14-005970_0_039,1,36,0,sitting at rest
+14-005970_1_039,0,81,1,smile
+14-005970_2_039,2,106,2,frown
+14-005970_3_039,0,115,3,squeeze eyes tightly
+14-005970_4_039,0,115,4,clench the teeth
+14-005971_0_039,3,33,0,sitting at rest
+14-005971_1_039,0,83,1,smile
+14-005971_2_039,1,119,2,frown
+14-005971_3_039,0,115,3,squeeze eyes tightly
+14-005971_4_039,0,112,4,clench the teeth
+15-000938_0_039,1,35,0,sitting at rest
+15-000938_1_039,1,77,1,smile
+15-000938_2_039,2,132,2,frown
+15-000938_3_039,0,115,3,squeeze eyes tightly
+15-000938_4_039,1,124,4,clench the teeth
+15-000939_0_039,3,53,0,sitting at rest
+15-000939_1_039,0,79,1,smile
+15-000939_2_039,0,124,2,frown
+15-000939_3_039,1,126,3,squeeze eyes tightly
+15-000939_4_039,2,147,4,clench the teeth
+15-002753_0_039,1,45,0,sitting at rest
+15-002753_1_039,0,79,1,smile
+15-002753_2_039,2,104,2,frown
+15-002753_3_039,0,120,3,squeeze eyes tightly
+15-002753_4_039,2,128,4,clench the teeth
+15-002760_0_039,1,54,0,sitting at rest
+15-002760_1_039,1,83,1,smile
+15-002760_2_039,0,127,2,frown
+15-002760_3_039,0,112,3,squeeze eyes tightly
+15-002760_4_039,1,132,4,clench the teeth
+15-003892_0_039,1,48,0,sitting at rest
+15-003892_1_039,1,72,1,smile
+15-003892_2_039,2,109,2,frown
+15-003892_3_039,1,123,3,squeeze eyes tightly
+15-003892_4_039,2,146,4,clench the teeth
+15-003918_0_039,1,57,0,sitting at rest
+15-003918_1_039,1,92,1,smile
+15-003918_2_039,1,123,2,frown
+15-003918_3_039,1,118,3,squeeze eyes tightly
+15-003918_4_039,3,144,4,clench the teeth
+15-005551_0_039,3,56,0,sitting at rest
+15-005551_1_039,1,77,1,smile
+15-005551_2_039,2,119,2,frown
+15-005551_3_039,0,115,3,squeeze eyes tightly
+15-005551_4_039,2,90,4,clench the teeth
+15-005561_0_039,0,74,0,sitting at rest
+15-005561_1_039,1,109,1,smile
+15-005561_2_039,0,116,2,frown
+15-005561_3_039,0,96,3,squeeze eyes tightly
+15-005561_4_039,2,126,4,clench the teeth
+15-007087_0_039,0,48,0,sitting at rest
+15-007087_1_039,0,87,1,smile
+15-007087_2_039,1,103,2,frown
+15-007087_3_039,1,114,3,squeeze eyes tightly
+15-007087_4_039,2,135,4,clench the teeth
+15-007109_0_039,0,49,0,sitting at rest
+15-007109_1_039,1,86,1,smile
+15-007109_2_039,1,118,2,frown
+15-007109_3_039,0,102,3,squeeze eyes tightly
+15-007109_4_039,2,128,4,clench the teeth
+15-008809_0_039,1,44,0,sitting at rest
+15-008809_1_039,1,76,1,smile
+15-008809_2_039,2,106,2,frown
+15-008809_3_039,0,103,3,squeeze eyes tightly
+15-008809_4_039,3,137,4,clench the teeth
+15-008817_0_039,0,52,0,sitting at rest
+15-008817_1_039,1,119,1,smile
+15-008817_2_039,1,123,2,frown
+15-008817_3_039,0,98,3,squeeze eyes tightly
+15-008817_4_039,2,126,4,clench the teeth
+14-006028_0_042,1,27,0,sitting at rest
+14-006028_1_042,1,74,1,smile
+14-006028_2_042,3,138,2,frown
+14-006028_3_042,0,137,3,squeeze eyes tightly
+14-006028_4_042,0,114,4,clench the teeth
+14-006042_0_042,1,25,0,sitting at rest
+14-006042_1_042,0,89,1,smile
+14-006042_2_042,1,131,2,frown
+14-006042_3_042,1,106,3,squeeze eyes tightly
+14-006042_4_042,0,117,4,clench the teeth
+15-001920_0_042,2,36,0,sitting at rest
+15-001920_1_042,1,128,1,smile
+15-001928_0_042,1,35,0,sitting at rest
+15-001928_1_042,2,140,1,smile
+15-003355_0_042,1,53,0,sitting at rest
+15-003355_1_042,1,161,1,smile
+15-003355_2_042,1,125,2,frown
+15-003355_3_042,0,109,3,squeeze eyes tightly
+15-003355_4_042,0,124,4,clench the teeth
+15-003370_0_042,1,33,0,sitting at rest
+15-003370_1_042,4,68,1,smile
+15-003370_2_042,0,104,2,frown
+15-003370_3_042,1,98,3,squeeze eyes tightly
+15-003370_4_042,1,103,4,clench the teeth
+15-005087_0_042,2,43,0,sitting at rest
+15-005087_1_042,0,160,1,smile
+15-005087_2_042,1,110,2,frown
+15-005087_3_042,1,118,3,squeeze eyes tightly
+15-005087_4_042,0,105,4,clench the teeth
+15-005097_0_042,1,20,0,sitting at rest
+15-005097_1_042,1,78,1,smile
+15-005097_2_042,2,96,2,frown
+15-005097_3_042,1,100,3,squeeze eyes tightly
+15-005097_4_042,0,92,4,clench the teeth
+15-006598_0_042,2,70,0,sitting at rest
+15-006598_1_042,1,106,1,smile
+15-006598_2_042,2,128,2,frown
+15-006598_3_042,0,136,3,squeeze eyes tightly
+15-006598_4_042,0,112,4,clench the teeth
+15-006610_0_042,1,27,0,sitting at rest
+15-006610_1_042,3,99,1,smile
+15-006610_2_042,2,142,2,frown
+15-006610_3_042,0,99,3,squeeze eyes tightly
+15-006610_4_042,0,111,4,clench the teeth
+15-008175_0_042,1,40,0,sitting at rest
+15-008175_1_042,1,108,1,smile
+15-008175_2_042,0,118,2,frown
+15-008175_3_042,0,121,3,squeeze eyes tightly
+15-008175_4_042,0,111,4,clench the teeth
+15-008182_0_042,3,31,0,sitting at rest
+15-008182_1_042,2,90,1,smile
+15-008182_2_042,0,100,2,frown
+15-008182_3_042,0,114,3,squeeze eyes tightly
+15-008182_4_042,0,98,4,clench the teeth
+15-009787_0_042,3,58,0,sitting at rest
+15-009787_1_042,0,107,1,smile
+15-009787_2_042,0,148,2,frown
+15-009787_3_042,1,103,3,squeeze eyes tightly
+15-009787_4_042,1,126,4,clench the teeth
+15-009814_0_042,3,28,0,sitting at rest
+15-009814_1_042,4,87,1,smile
+15-009814_2_042,0,101,2,frown
+15-009814_3_042,0,100,3,squeeze eyes tightly
+15-009814_4_042,1,112,4,clench the teeth
+14-006341_0_043,2,39,0,sitting at rest
+14-006341_1_043,2,81,1,smile
+14-006341_2_043,1,106,2,frown
+14-006341_3_043,1,110,3,squeeze eyes tightly
+14-006341_4_043,1,123,4,clench the teeth
+14-006358_0_043,2,22,0,sitting at rest
+14-006358_1_043,1,77,1,smile
+14-006358_2_043,0,105,2,frown
+14-006358_3_043,0,108,3,squeeze eyes tightly
+14-006358_4_043,1,113,4,clench the teeth
+15-001150_0_043,2,27,0,sitting at rest
+15-001150_1_043,2,72,1,smile
+15-001150_2_043,1,76,2,frown
+15-001150_3_043,0,97,3,squeeze eyes tightly
+15-001150_4_043,1,103,4,clench the teeth
+15-001177_0_043,1,29,0,sitting at rest
+15-001177_1_043,2,83,1,smile
+15-001177_2_043,2,142,2,frown
+15-001177_3_043,1,72,3,squeeze eyes tightly
+15-001177_4_043,1,70,4,clench the teeth
+15-002629_0_043,0,36,0,sitting at rest
+15-002629_1_043,2,76,1,smile
+15-002629_2_043,1,99,2,frown
+15-002629_3_043,2,88,3,squeeze eyes tightly
+15-002629_4_043,1,103,4,clench the teeth
+15-002635_0_043,1,40,0,sitting at rest
+15-002635_1_043,2,53,1,smile
+15-002635_2_043,1,74,2,frown
+15-002635_3_043,1,75,3,squeeze eyes tightly
+15-002635_4_043,1,83,4,clench the teeth
+15-004182_0_043,0,25,0,sitting at rest
+15-004182_1_043,2,68,1,smile
+15-004182_2_043,1,90,2,frown
+15-004182_3_043,2,94,3,squeeze eyes tightly
+15-004182_4_043,1,108,4,clench the teeth
+15-004192_0_043,0,21,0,sitting at rest
+15-004192_1_043,2,62,1,smile
+15-004192_2_043,1,92,2,frown
+15-004192_3_043,1,104,3,squeeze eyes tightly
+15-004192_4_043,1,124,4,clench the teeth
+15-005826_0_043,1,31,0,sitting at rest
+15-005826_1_043,2,68,1,smile
+15-005826_2_043,1,85,2,frown
+15-005826_3_043,2,104,3,squeeze eyes tightly
+15-005826_4_043,1,95,4,clench the teeth
+15-005840_0_043,1,23,0,sitting at rest
+15-005840_1_043,2,62,1,smile
+15-005840_2_043,0,80,2,frown
+15-005840_3_043,2,92,3,squeeze eyes tightly
+15-005840_4_043,0,88,4,clench the teeth
+15-007336_0_043,0,22,0,sitting at rest
+15-007336_1_043,2,94,1,smile
+15-007336_2_043,1,95,2,frown
+15-007336_3_043,2,106,3,squeeze eyes tightly
+15-007336_4_043,1,123,4,clench the teeth
+15-007337_0_043,2,26,0,sitting at rest
+15-007337_1_043,2,79,1,smile
+15-007337_2_043,1,83,2,frown
+15-007337_3_043,2,91,3,squeeze eyes tightly
+15-007337_4_043,1,115,4,clench the teeth
+15-009077_0_043,2,18,0,sitting at rest
+15-009077_1_043,2,78,1,smile
+15-009077_2_043,1,83,2,frown
+15-009077_3_043,1,90,3,squeeze eyes tightly
+15-009077_4_043,1,78,4,clench the teeth
+15-009078_0_043,1,28,0,sitting at rest
+15-009078_1_043,2,70,1,smile
+15-009078_2_043,1,45,2,frown
+15-009078_3_043,2,85,3,squeeze eyes tightly
+15-009078_4_043,0,75,4,clench the teeth
+14-006411_0_045,3,40,0,sitting at rest
+14-006411_1_045,2,109,1,smile
+14-006411_2_045,3,112,2,frown
+14-006411_3_045,3,121,3,squeeze eyes tightly
+14-006411_4_045,3,121,4,clench the teeth
+14-006430_0_045,3,30,0,sitting at rest
+14-006430_1_045,2,63,1,smile
+14-006430_2_045,3,126,2,frown
+14-006430_3_045,3,151,3,squeeze eyes tightly
+14-006430_4_045,3,151,4,clench the teeth
+15-001468_0_045,3,30,0,sitting at rest
+15-001468_1_045,3,94,1,smile
+15-001468_2_045,3,132,2,frown
+15-001468_3_045,3,130,3,squeeze eyes tightly
+15-001468_4_045,3,127,4,clench the teeth
+15-001482_1_045,3,82,1,smile
+15-001482_2_045,3,173,2,frown
+15-001482_3_045,3,118,3,squeeze eyes tightly
+15-001482_4_045,2,135,4,clench the teeth
+15-003696_0_045,3,40,0,sitting at rest
+15-003696_1_045,3,89,1,smile
+15-003696_2_045,2,92,2,frown
+15-003696_3_045,3,92,3,squeeze eyes tightly
+15-003696_4_045,3,118,4,clench the teeth
+15-003697_0_045,2,44,0,sitting at rest
+15-003697_1_045,1,82,1,smile
+15-003697_2_045,1,115,2,frown
+15-003697_3_045,2,97,3,squeeze eyes tightly
+15-003697_4_045,2,141,4,clench the teeth
+15-005377_0_045,2,26,0,sitting at rest
+15-005377_1_045,2,65,1,smile
+15-005377_2_045,3,112,2,frown
+15-005377_3_045,3,111,3,squeeze eyes tightly
+15-005377_4_045,2,116,4,clench the teeth
+15-005408_0_045,3,33,0,sitting at rest
+15-005408_1_045,3,86,1,smile
+15-005408_2_045,1,110,2,frown
+15-005408_3_045,1,118,3,squeeze eyes tightly
+15-005408_4_045,2,145,4,clench the teeth
+16-001937_0_045,2,35,0,sitting at rest
+16-001937_1_045,1,89,1,smile
+16-001937_2_045,2,90,2,frown
+16-001937_3_045,3,117,3,squeeze eyes tightly
+16-001937_4_045,1,93,4,clench the teeth
+16-001940_0_045,3,23,0,sitting at rest
+16-001940_1_045,1,104,1,smile
+16-001940_2_045,3,89,2,frown
+16-001940_3_045,3,109,3,squeeze eyes tightly
+16-001940_4_045,2,87,4,clench the teeth
+15-000469_0_048,2,29,0,sitting at rest
+15-000469_1_048,0,71,1,smile
+15-000469_2_048,0,100,2,frown
+15-000469_3_048,2,118,3,squeeze eyes tightly
+15-000469_4_048,2,103,4,clench the teeth
+15-000477_0_048,2,31,0,sitting at rest
+15-000477_1_048,0,72,1,smile
+15-000477_2_048,1,107,2,frown
+15-000477_3_048,2,118,3,squeeze eyes tightly
+15-000477_4_048,2,103,4,clench the teeth
+15-002818_0_048,1,20,0,sitting at rest
+15-002818_1_048,0,60,1,smile
+15-002818_2_048,0,97,2,frown
+15-002818_3_048,2,111,3,squeeze eyes tightly
+15-002818_4_048,2,108,4,clench the teeth
+15-002820_0_048,0,25,0,sitting at rest
+15-002820_1_048,0,70,1,smile
+15-002820_2_048,0,98,2,frown
+15-002820_3_048,2,105,3,squeeze eyes tightly
+15-002820_4_048,3,117,4,clench the teeth
+15-004281_0_048,3,20,0,sitting at rest
+15-004281_1_048,0,66,1,smile
+15-004281_2_048,1,92,2,frown
+15-004281_3_048,2,95,3,squeeze eyes tightly
+15-004281_4_048,2,106,4,clench the teeth
+15-004293_0_048,1,30,0,sitting at rest
+15-004293_1_048,0,66,1,smile
+15-004293_2_048,0,112,2,frown
+15-004293_3_048,1,100,3,squeeze eyes tightly
+15-004293_4_048,3,177,4,clench the teeth
+15-005911_0_048,2,34,0,sitting at rest
+15-005911_1_048,0,79,1,smile
+15-005911_2_048,0,93,2,frown
+15-005911_3_048,1,99,3,squeeze eyes tightly
+15-005911_4_048,2,105,4,clench the teeth
+15-005919_0_048,2,36,0,sitting at rest
+15-005919_1_048,0,70,1,smile
+15-005919_2_048,1,93,2,frown
+15-005919_3_048,1,108,3,squeeze eyes tightly
+15-005919_4_048,3,117,4,clench the teeth
+15-007441_0_048,3,31,0,sitting at rest
+15-007441_1_048,0,87,1,smile
+15-007441_2_048,1,109,2,frown
+15-007441_3_048,2,127,3,squeeze eyes tightly
+15-007441_4_048,2,143,4,clench the teeth
+15-007448_0_048,0,16,0,sitting at rest
+15-007448_1_048,0,83,1,smile
+15-007448_2_048,0,87,2,frown
+15-007448_3_048,1,117,3,squeeze eyes tightly
+15-007448_4_048,2,137,4,clench the teeth
+15-009149_0_048,0,34,0,sitting at rest
+15-009149_1_048,1,80,1,smile
+15-009149_2_048,0,88,2,frown
+15-009149_3_048,1,103,3,squeeze eyes tightly
+15-009149_4_048,3,138,4,clench the teeth
+15-009153_0_048,1,54,0,sitting at rest
+15-009153_1_048,1,90,1,smile
+15-009153_2_048,0,93,2,frown
+15-009153_3_048,1,113,3,squeeze eyes tightly
+15-009153_4_048,2,117,4,clench the teeth
+16-000637_0_048,2,24,0,sitting at rest
+16-000637_1_048,0,75,1,smile
+16-000637_2_048,0,97,2,frown
+16-000637_3_048,1,98,3,squeeze eyes tightly
+16-000637_4_048,3,122,4,clench the teeth
+16-000665_0_048,2,21,0,sitting at rest
+16-000665_1_048,0,70,1,smile
+16-000665_2_048,0,94,2,frown
+16-000665_3_048,1,98,3,squeeze eyes tightly
+16-000665_4_048,3,129,4,clench the teeth
+15-000546_0_049,1,34,0,sitting at rest
+15-000546_1_049,1,78,1,smile
+15-000546_2_049,1,138,2,frown
+15-000546_3_049,0,125,3,squeeze eyes tightly
+15-000546_4_049,1,117,4,clench the teeth
+15-000549_0_049,2,46,0,sitting at rest
+15-000549_1_049,2,70,1,smile
+15-000549_2_049,0,97,2,frown
+15-000549_3_049,0,109,3,squeeze eyes tightly
+15-000549_4_049,1,107,4,clench the teeth
+15-002872_0_049,3,47,0,sitting at rest
+15-002872_1_049,1,90,1,smile
+15-002872_2_049,1,103,2,frown
+15-002872_3_049,1,117,3,squeeze eyes tightly
+15-002872_4_049,2,122,4,clench the teeth
+15-002897_0_049,3,59,0,sitting at rest
+15-002897_1_049,2,73,1,smile
+15-002897_2_049,1,121,2,frown
+15-002897_3_049,0,123,3,squeeze eyes tightly
+15-002897_4_049,1,119,4,clench the teeth
+15-004506_0_049,2,41,0,sitting at rest
+15-004506_1_049,1,74,1,smile
+15-004506_2_049,1,111,2,frown
+15-004506_3_049,0,119,3,squeeze eyes tightly
+15-004506_4_049,3,130,4,clench the teeth
+15-004542_1_049,2,71,1,smile
+15-004542_2_049,1,94,2,frown
+15-004542_3_049,0,105,3,squeeze eyes tightly
+15-004542_4_049,1,115,4,clench the teeth
+15-006162_0_049,3,51,0,sitting at rest
+15-006162_1_049,2,101,1,smile
+15-006162_2_049,1,108,2,frown
+15-006162_3_049,0,95,3,squeeze eyes tightly
+15-006162_4_049,2,116,4,clench the teeth
+15-006169_0_049,3,28,0,sitting at rest
+15-006169_1_049,1,64,1,smile
+15-006169_2_049,0,84,2,frown
+15-006169_3_049,0,83,3,squeeze eyes tightly
+15-006169_4_049,1,102,4,clench the teeth
+15-007679_0_049,2,38,0,sitting at rest
+15-007679_1_049,1,91,1,smile
+15-007679_2_049,1,135,2,frown
+15-007679_3_049,0,149,3,squeeze eyes tightly
+15-007679_4_049,1,144,4,clench the teeth
+15-007696_0_049,3,66,0,sitting at rest
+15-007696_1_049,2,78,1,smile
+15-007696_2_049,1,111,2,frown
+15-007696_3_049,0,129,3,squeeze eyes tightly
+15-007696_4_049,1,113,4,clench the teeth
+15-009393_0_049,2,60,0,sitting at rest
+15-009393_1_049,1,81,1,smile
+15-009393_2_049,2,147,2,frown
+15-009393_3_049,0,125,3,squeeze eyes tightly
+15-009393_4_049,2,131,4,clench the teeth
+15-009404_0_049,3,28,0,sitting at rest
+15-009404_1_049,2,70,1,smile
+15-009404_2_049,1,86,2,frown
+15-009404_3_049,0,111,3,squeeze eyes tightly
+15-009404_4_049,2,107,4,clench the teeth
+16-000870_0_049,2,29,0,sitting at rest
+16-000870_1_049,2,71,1,smile
+16-000870_2_049,3,96,2,frown
+16-000870_3_049,0,116,3,squeeze eyes tightly
+16-000870_4_049,2,112,4,clench the teeth
+16-000872_0_049,3,38,0,sitting at rest
+16-000872_1_049,2,70,1,smile
+16-000872_2_049,2,99,2,frown
+16-000872_3_049,0,105,3,squeeze eyes tightly
+16-000872_4_049,1,117,4,clench the teeth
+15-000598_0_052,1,31,0,sitting at rest
+15-000598_1_052,2,55,1,smile
+15-000598_2_052,1,79,2,frown
+15-000598_3_052,2,260,3,squeeze eyes tightly
+15-000598_4_052,2,103,4,clench the teeth
+15-000614_0_052,0,28,0,sitting at rest
+15-000614_1_052,1,69,1,smile
+15-000614_2_052,1,71,2,frown
+15-000614_3_052,1,113,3,squeeze eyes tightly
+15-000614_4_052,2,91,4,clench the teeth
+15-002730_0_052,3,56,0,sitting at rest
+15-002730_1_052,1,77,1,smile
+15-002730_2_052,1,96,2,frown
+15-002730_3_052,1,118,3,squeeze eyes tightly
+15-002730_4_052,2,117,4,clench the teeth
+15-002732_0_052,0,44,0,sitting at rest
+15-002732_1_052,1,66,1,smile
+15-002732_2_052,1,105,2,frown
+15-002732_3_052,1,99,3,squeeze eyes tightly
+15-002732_4_052,2,111,4,clench the teeth
+15-004330_0_052,2,31,0,sitting at rest
+15-004330_1_052,1,74,1,smile
+15-004330_2_052,2,112,2,frown
+15-004330_3_052,2,117,3,squeeze eyes tightly
+15-004330_4_052,2,107,4,clench the teeth
+15-004366_2_052,1,98,2,frown
+15-004366_3_052,2,87,3,squeeze eyes tightly
+15-004366_4_052,1,109,4,clench the teeth
+15-005972_0_052,0,27,0,sitting at rest
+15-005972_1_052,1,72,1,smile
+15-005972_2_052,1,90,2,frown
+15-005972_3_052,2,109,3,squeeze eyes tightly
+15-005972_4_052,2,105,4,clench the teeth
+15-005989_0_052,0,24,0,sitting at rest
+15-005989_1_052,0,70,1,smile
+15-005989_2_052,1,99,2,frown
+15-005989_3_052,1,95,3,squeeze eyes tightly
+15-005989_4_052,2,94,4,clench the teeth
+15-007494_0_052,0,26,0,sitting at rest
+15-007494_1_052,2,61,1,smile
+15-007494_2_052,2,113,2,frown
+15-007494_3_052,2,113,3,squeeze eyes tightly
+15-007494_4_052,3,131,4,clench the teeth
+15-007510_0_052,1,33,0,sitting at rest
+15-007510_1_052,1,59,1,smile
+15-007510_2_052,1,84,2,frown
+15-007510_3_052,1,93,3,squeeze eyes tightly
+15-007510_4_052,2,89,4,clench the teeth
+15-009194_0_052,2,29,0,sitting at rest
+15-009194_1_052,1,76,1,smile
+15-009194_2_052,1,98,2,frown
+15-009194_3_052,1,118,3,squeeze eyes tightly
+15-009194_4_052,2,115,4,clench the teeth
+15-009195_0_052,0,31,0,sitting at rest
+15-009195_1_052,2,76,1,smile
+15-009195_2_052,1,86,2,frown
+15-009195_3_052,1,105,3,squeeze eyes tightly
+15-009195_4_052,3,124,4,clench the teeth
+16-000686_0_052,2,28,0,sitting at rest
+16-000686_1_052,1,68,1,smile
+16-000686_2_052,1,92,2,frown
+16-000686_3_052,2,98,3,squeeze eyes tightly
+16-000686_4_052,2,100,4,clench the teeth
+16-000695_0_052,2,30,0,sitting at rest
+16-000695_1_052,2,65,1,smile
+16-000695_2_052,1,89,2,frown
+16-000695_3_052,2,99,3,squeeze eyes tightly
+16-000695_4_052,2,85,4,clench the teeth
+15-000940_0_057,3,29,0,sitting at rest
+15-000940_1_057,2,77,1,smile
+15-000940_2_057,1,152,2,frown
+15-000940_3_057,1,129,3,squeeze eyes tightly
+15-000940_4_057,2,110,4,clench the teeth
+15-000941_0_057,0,23,0,sitting at rest
+15-000941_1_057,1,56,1,smile
+15-000941_2_057,0,68,2,frown
+15-000941_3_057,0,103,3,squeeze eyes tightly
+15-000941_4_057,1,104,4,clench the teeth
+15-003234_0_057,3,43,0,sitting at rest
+15-003234_1_057,2,89,1,smile
+15-003234_2_057,3,117,2,frown
+15-003234_3_057,3,119,3,squeeze eyes tightly
+15-003234_4_057,3,142,4,clench the teeth
+15-003246_0_057,0,57,0,sitting at rest
+15-003246_1_057,1,85,1,smile
+15-003246_2_057,0,94,2,frown
+15-003246_3_057,0,101,3,squeeze eyes tightly
+15-003246_4_057,1,118,4,clench the teeth
+15-004981_0_057,3,20,0,sitting at rest
+15-004981_1_057,1,76,1,smile
+15-004981_2_057,0,93,2,frown
+15-004981_3_057,2,116,3,squeeze eyes tightly
+15-004981_4_057,3,123,4,clench the teeth
+15-005006_0_057,1,35,0,sitting at rest
+15-005006_1_057,2,86,1,smile
+15-005006_2_057,0,107,2,frown
+15-005006_3_057,3,113,3,squeeze eyes tightly
+15-005006_4_057,2,136,4,clench the teeth
+15-006494_0_057,3,27,0,sitting at rest
+15-006494_1_057,2,74,1,smile
+15-006494_2_057,1,109,2,frown
+15-006494_3_057,1,104,3,squeeze eyes tightly
+15-006494_4_057,2,120,4,clench the teeth
+15-006504_0_057,0,20,0,sitting at rest
+15-006504_1_057,1,74,1,smile
+15-006504_2_057,0,88,2,frown
+15-006504_3_057,1,97,3,squeeze eyes tightly
+15-006504_4_057,2,167,4,clench the teeth
+15-008093_0_057,2,32,0,sitting at rest
+15-008093_1_057,3,97,1,smile
+15-008093_2_057,1,110,2,frown
+15-008093_3_057,2,114,3,squeeze eyes tightly
+15-008093_4_057,3,117,4,clench the teeth
+15-008099_0_057,1,29,0,sitting at rest
+15-008099_1_057,1,67,1,smile
+15-008099_2_057,0,91,2,frown
+15-008099_3_057,0,90,3,squeeze eyes tightly
+15-008099_4_057,1,143,4,clench the teeth
+15-009859_0_057,2,35,0,sitting at rest
+15-009859_1_057,2,76,1,smile
+15-009859_2_057,0,93,2,frown
+15-009859_3_057,2,117,3,squeeze eyes tightly
+15-009859_4_057,2,120,4,clench the teeth
+15-009860_0_057,0,46,0,sitting at rest
+15-009860_1_057,3,148,1,smile
+15-009860_2_057,0,103,2,frown
+15-009860_3_057,2,112,3,squeeze eyes tightly
+15-009860_4_057,2,112,4,clench the teeth
+16-001286_0_057,0,56,0,sitting at rest
+16-001286_1_057,1,84,1,smile
+16-001286_2_057,1,106,2,frown
+16-001286_3_057,1,100,3,squeeze eyes tightly
+16-001286_4_057,3,126,4,clench the teeth
+16-001291_0_057,0,16,0,sitting at rest
+16-001291_1_057,2,70,1,smile
+16-001291_2_057,0,92,2,frown
+16-001291_3_057,1,93,3,squeeze eyes tightly
+16-001291_4_057,3,114,4,clench the teeth
+15-000866_0_058,0,28,0,sitting at rest
+15-000866_1_058,2,108,1,smile
+15-000866_2_058,1,141,2,frown
+15-000866_3_058,1,96,3,squeeze eyes tightly
+15-000866_4_058,0,89,4,clench the teeth
+15-000882_0_058,0,43,0,sitting at rest
+15-000882_1_058,1,73,1,smile
+15-000882_2_058,0,52,2,frown
+15-000882_3_058,0,92,3,squeeze eyes tightly
+15-000882_4_058,1,127,4,clench the teeth
+15-003218_0_058,0,36,0,sitting at rest
+15-003218_1_058,1,81,1,smile
+15-003218_2_058,1,113,2,frown
+15-003218_3_058,0,118,3,squeeze eyes tightly
+15-003218_4_058,1,109,4,clench the teeth
+15-003245_0_058,0,34,0,sitting at rest
+15-003245_1_058,0,81,1,smile
+15-003245_2_058,1,116,2,frown
+15-003245_3_058,0,111,3,squeeze eyes tightly
+15-003245_4_058,1,109,4,clench the teeth
+15-004982_0_058,0,28,0,sitting at rest
+15-004982_1_058,0,86,1,smile
+15-004982_2_058,0,108,2,frown
+15-004982_3_058,0,106,3,squeeze eyes tightly
+15-004982_4_058,1,110,4,clench the teeth
+15-005007_0_058,0,30,0,sitting at rest
+15-005007_1_058,0,82,1,smile
+15-005007_2_058,0,102,2,frown
+15-005007_3_058,0,89,3,squeeze eyes tightly
+15-005007_4_058,0,133,4,clench the teeth
+15-006495_0_058,0,49,0,sitting at rest
+15-006495_1_058,0,70,1,smile
+15-006495_2_058,0,109,2,frown
+15-006495_3_058,0,101,3,squeeze eyes tightly
+15-006495_4_058,0,115,4,clench the teeth
+15-006513_0_058,3,31,0,sitting at rest
+15-006513_1_058,1,79,1,smile
+15-006513_2_058,0,103,2,frown
+15-006513_3_058,0,117,3,squeeze eyes tightly
+15-006513_4_058,1,140,4,clench the teeth
+15-008086_0_058,0,27,0,sitting at rest
+15-008086_1_058,0,59,1,smile
+15-008086_2_058,1,101,2,frown
+15-008086_3_058,0,101,3,squeeze eyes tightly
+15-008086_4_058,1,126,4,clench the teeth
+15-008098_0_058,0,32,0,sitting at rest
+15-008098_1_058,0,73,1,smile
+15-008098_2_058,0,101,2,frown
+15-008098_3_058,0,123,3,squeeze eyes tightly
+15-008098_4_058,0,101,4,clench the teeth
+15-009845_0_058,0,34,0,sitting at rest
+15-009845_1_058,1,89,1,smile
+15-009845_2_058,0,84,2,frown
+15-009845_3_058,0,109,3,squeeze eyes tightly
+15-009845_4_058,0,119,4,clench the teeth
+15-009846_0_058,0,38,0,sitting at rest
+15-009846_1_058,0,88,1,smile
+15-009846_2_058,0,106,2,frown
+15-009846_3_058,0,148,3,squeeze eyes tightly
+15-009846_4_058,0,142,4,clench the teeth
+16-001288_0_058,0,26,0,sitting at rest
+16-001288_1_058,1,66,1,smile
+16-001288_2_058,1,93,2,frown
+16-001288_3_058,1,94,3,squeeze eyes tightly
+16-001288_4_058,0,127,4,clench the teeth
+16-001292_0_058,0,47,0,sitting at rest
+16-001292_1_058,1,75,1,smile
+16-001292_2_058,0,99,2,frown
+16-001292_3_058,0,105,3,squeeze eyes tightly
+16-001292_4_058,1,114,4,clench the teeth
+15-001921_0_060,3,43,0,sitting at rest
+15-001921_1_060,3,55,1,smile
+15-001929_0_060,1,34,0,sitting at rest
+15-001929_1_060,3,110,1,smile
+15-005238_0_060,3,63,0,sitting at rest
+15-005238_1_060,2,138,1,smile
+15-005238_2_060,3,129,2,frown
+15-005238_3_060,1,118,3,squeeze eyes tightly
+15-005238_4_060,3,149,4,clench the teeth
+15-005252_0_060,3,34,0,sitting at rest
+15-005252_1_060,2,129,1,smile
+15-005252_2_060,3,177,2,frown
+15-005252_3_060,1,114,3,squeeze eyes tightly
+15-005252_4_060,3,101,4,clench the teeth
+15-006744_0_060,3,33,0,sitting at rest
+15-006744_1_060,1,78,1,smile
+15-006744_2_060,3,61,2,frown
+15-006744_3_060,1,99,3,squeeze eyes tightly
+15-006744_4_060,2,100,4,clench the teeth
+15-006756_0_060,1,37,0,sitting at rest
+15-006756_1_060,0,98,1,smile
+15-006756_2_060,3,62,2,frown
+15-006756_3_060,1,98,3,squeeze eyes tightly
+15-006756_4_060,2,135,4,clench the teeth
+15-008386_0_060,3,42,0,sitting at rest
+15-008386_1_060,3,106,1,smile
+15-008386_2_060,3,103,2,frown
+15-008386_3_060,1,118,3,squeeze eyes tightly
+15-008386_4_060,3,136,4,clench the teeth
+15-008411_0_060,0,41,0,sitting at rest
+15-008411_1_060,1,113,1,smile
+15-008411_2_060,0,97,2,frown
+15-008411_3_060,1,96,3,squeeze eyes tightly
+15-008411_4_060,2,120,4,clench the teeth
+16-000105_0_060,3,25,0,sitting at rest
+16-000105_1_060,2,87,1,smile
+16-000105_2_060,3,111,2,frown
+16-000105_3_060,1,116,3,squeeze eyes tightly
+16-000105_4_060,1,115,4,clench the teeth
+16-000117_0_060,0,61,0,sitting at rest
+16-000117_1_060,2,109,1,smile
+16-000117_2_060,3,96,2,frown
+16-000117_3_060,1,116,3,squeeze eyes tightly
+16-000117_4_060,1,133,4,clench the teeth
+16-001499_0_060,0,32,0,sitting at rest
+16-001499_1_060,2,61,1,smile
+16-001499_2_060,3,78,2,frown
+16-001499_3_060,1,105,3,squeeze eyes tightly
+16-001499_4_060,2,136,4,clench the teeth
+16-001511_0_060,0,34,0,sitting at rest
+16-001511_1_060,2,77,1,smile
+16-001511_2_060,3,105,2,frown
+16-001511_3_060,1,123,3,squeeze eyes tightly
+16-001511_4_060,3,113,4,clench the teeth
+16-003074_0_060,3,29,0,sitting at rest
+16-003074_1_060,2,101,1,smile
+16-003074_2_060,3,92,2,frown
+16-003074_3_060,1,114,3,squeeze eyes tightly
+16-003074_4_060,3,124,4,clench the teeth
+16-003075_0_060,0,23,0,sitting at rest
+16-003075_1_060,2,77,1,smile
+16-003075_2_060,3,107,2,frown
+16-003075_3_060,0,122,3,squeeze eyes tightly
+16-003075_4_060,3,125,4,clench the teeth
+15-001586_0_061,3,34,0,sitting at rest
+15-001586_1_061,1,85,1,smile
+15-001586_2_061,1,117,2,frown
+15-001586_3_061,3,134,3,squeeze eyes tightly
+15-001586_4_061,2,151,4,clench the teeth
+15-001597_0_061,0,42,0,sitting at rest
+15-001597_1_061,2,78,1,smile
+15-001597_2_061,1,112,2,frown
+15-001597_3_061,1,116,3,squeeze eyes tightly
+15-001597_4_061,0,105,4,clench the teeth
+15-005026_0_061,3,53,0,sitting at rest
+15-005026_1_061,1,83,1,smile
+15-005026_2_061,0,93,2,frown
+15-005026_3_061,2,104,3,squeeze eyes tightly
+15-005026_4_061,1,112,4,clench the teeth
+15-005058_0_061,0,29,0,sitting at rest
+15-005058_1_061,0,76,1,smile
+15-005058_2_061,1,108,2,frown
+15-005058_3_061,2,112,3,squeeze eyes tightly
+15-005058_4_061,1,105,4,clench the teeth
+15-006540_0_061,3,22,0,sitting at rest
+15-006540_1_061,1,63,1,smile
+15-006540_2_061,2,92,2,frown
+15-006540_3_061,2,107,3,squeeze eyes tightly
+15-006540_4_061,2,114,4,clench the teeth
+15-006556_0_061,1,27,0,sitting at rest
+15-006556_1_061,1,80,1,smile
+15-006556_2_061,1,94,2,frown
+15-006556_3_061,2,121,3,squeeze eyes tightly
+15-006556_4_061,2,121,4,clench the teeth
+15-008125_0_061,3,28,0,sitting at rest
+15-008125_1_061,0,80,1,smile
+15-008125_2_061,1,102,2,frown
+15-008125_3_061,1,132,3,squeeze eyes tightly
+15-008125_4_061,0,125,4,clench the teeth
+15-008141_0_061,0,45,0,sitting at rest
+15-008141_1_061,0,63,1,smile
+15-008141_2_061,2,92,2,frown
+15-008141_3_061,0,123,3,squeeze eyes tightly
+15-008141_4_061,0,122,4,clench the teeth
+15-009914_0_061,3,24,0,sitting at rest
+15-009914_1_061,0,67,1,smile
+15-009914_2_061,1,103,2,frown
+15-009914_3_061,1,108,3,squeeze eyes tightly
+15-009914_4_061,0,113,4,clench the teeth
+15-009916_0_061,0,34,0,sitting at rest
+15-009916_1_061,1,88,1,smile
+15-009916_2_061,1,106,2,frown
+15-009916_3_061,1,104,3,squeeze eyes tightly
+15-009916_4_061,1,124,4,clench the teeth
+16-001310_0_061,3,46,0,sitting at rest
+16-001310_1_061,2,84,1,smile
+16-001310_2_061,3,125,2,frown
+16-001310_3_061,3,118,3,squeeze eyes tightly
+16-001310_4_061,3,110,4,clench the teeth
+16-001329_0_061,0,23,0,sitting at rest
+16-001329_1_061,1,81,1,smile
+16-001329_2_061,1,91,2,frown
+16-001329_3_061,1,99,3,squeeze eyes tightly
+16-001329_4_061,1,118,4,clench the teeth
+16-002652_0_061,3,24,0,sitting at rest
+16-002652_1_061,0,74,1,smile
+16-002652_2_061,2,105,2,frown
+16-002652_3_061,1,110,3,squeeze eyes tightly
+16-002652_4_061,2,119,4,clench the teeth
+16-002654_0_061,0,24,0,sitting at rest
+16-002654_1_061,1,67,1,smile
+16-002654_2_061,1,99,2,frown
+16-002654_3_061,0,135,3,squeeze eyes tightly
+16-002654_4_061,2,119,4,clench the teeth
+15-001235_0_062,1,47,0,sitting at rest
+15-001235_1_062,0,93,1,smile
+15-001235_2_062,0,107,2,frown
+15-001235_3_062,2,137,3,squeeze eyes tightly
+15-001235_4_062,2,129,4,clench the teeth
+15-001268_0_062,0,50,0,sitting at rest
+15-001268_1_062,0,74,1,smile
+15-001268_2_062,0,92,2,frown
+15-001268_3_062,2,113,3,squeeze eyes tightly
+15-001268_4_062,2,114,4,clench the teeth
+15-005203_0_062,3,39,0,sitting at rest
+15-005203_1_062,0,83,1,smile
+15-005203_2_062,1,108,2,frown
+15-005203_3_062,1,119,3,squeeze eyes tightly
+15-005203_4_062,2,180,4,clench the teeth
+15-005220_0_062,0,63,0,sitting at rest
+15-005220_1_062,0,82,1,smile
+15-005220_2_062,1,99,2,frown
+15-005220_3_062,1,107,3,squeeze eyes tightly
+15-005220_4_062,0,110,4,clench the teeth
+15-006752_0_062,3,43,0,sitting at rest
+15-006752_1_062,1,78,1,smile
+15-006752_2_062,2,79,2,frown
+15-006752_3_062,2,113,3,squeeze eyes tightly
+15-006752_4_062,3,77,4,clench the teeth
+15-006757_0_062,0,33,0,sitting at rest
+15-006757_1_062,0,60,1,smile
+15-006757_2_062,1,92,2,frown
+15-006757_3_062,3,103,3,squeeze eyes tightly
+15-006757_4_062,2,106,4,clench the teeth
+15-008323_0_062,3,29,0,sitting at rest
+15-008323_1_062,0,83,1,smile
+15-008323_2_062,1,82,2,frown
+15-008323_3_062,3,91,3,squeeze eyes tightly
+15-008323_4_062,3,109,4,clench the teeth
+15-008335_0_062,0,53,0,sitting at rest
+15-008335_1_062,1,78,1,smile
+15-008335_2_062,0,97,2,frown
+15-008335_3_062,3,154,3,squeeze eyes tightly
+15-008335_4_062,2,109,4,clench the teeth
+15-009946_0_062,3,54,0,sitting at rest
+15-009946_1_062,1,105,1,smile
+15-009946_2_062,0,95,2,frown
+15-009946_3_062,1,135,3,squeeze eyes tightly
+15-009946_4_062,1,131,4,clench the teeth
+15-009948_0_062,0,27,0,sitting at rest
+15-009948_1_062,0,91,1,smile
+15-009948_2_062,1,83,2,frown
+15-009948_3_062,1,115,3,squeeze eyes tightly
+15-009948_4_062,2,129,4,clench the teeth
+16-001465_0_062,3,28,0,sitting at rest
+16-001465_1_062,0,82,1,smile
+16-001465_2_062,1,74,2,frown
+16-001465_3_062,1,114,3,squeeze eyes tightly
+16-001465_4_062,3,143,4,clench the teeth
+16-001474_0_062,1,57,0,sitting at rest
+16-001474_1_062,0,76,1,smile
+16-001474_2_062,1,99,2,frown
+16-001474_3_062,1,111,3,squeeze eyes tightly
+16-001474_4_062,1,108,4,clench the teeth
+16-002790_0_062,3,42,0,sitting at rest
+16-002790_1_062,0,92,1,smile
+16-002790_2_062,1,98,2,frown
+16-002790_3_062,2,134,3,squeeze eyes tightly
+16-002790_4_062,2,91,4,clench the teeth
+16-002798_0_062,0,70,0,sitting at rest
+16-002798_1_062,0,94,1,smile
+16-002798_2_062,1,89,2,frown
+16-002798_3_062,1,109,3,squeeze eyes tightly
+16-002798_4_062,3,115,4,clench the teeth
+15-001992_0_065,0,19,0,sitting at rest
+15-001992_1_065,2,95,1,smile
+15-001992_2_065,0,142,2,frown
+15-001992_3_065,0,111,3,squeeze eyes tightly
+15-001992_4_065,1,105,4,clench the teeth
+15-002004_0_065,1,27,0,sitting at rest
+15-002004_1_065,1,68,1,smile
+15-002004_2_065,0,88,2,frown
+15-002004_3_065,1,81,3,squeeze eyes tightly
+15-002004_4_065,2,93,4,clench the teeth
+15-005376_0_065,2,22,0,sitting at rest
+15-005376_1_065,1,70,1,smile
+15-005376_2_065,2,93,2,frown
+15-005376_3_065,0,95,3,squeeze eyes tightly
+15-005376_4_065,1,97,4,clench the teeth
+15-005398_0_065,2,15,0,sitting at rest
+15-005398_1_065,0,65,1,smile
+15-005398_2_065,0,85,2,frown
+15-005398_3_065,0,78,3,squeeze eyes tightly
+15-005398_4_065,1,94,4,clench the teeth
+15-006985_0_065,1,32,0,sitting at rest
+15-006985_1_065,2,71,1,smile
+15-006985_2_065,0,67,2,frown
+15-006985_3_065,3,73,3,squeeze eyes tightly
+15-006985_4_065,2,109,4,clench the teeth
+15-006987_0_065,1,32,0,sitting at rest
+15-006987_1_065,2,73,1,smile
+15-006987_2_065,0,81,2,frown
+15-006987_3_065,3,93,3,squeeze eyes tightly
+15-006987_4_065,2,109,4,clench the teeth
+15-008592_0_065,1,17,0,sitting at rest
+15-008592_1_065,1,68,1,smile
+15-008592_2_065,2,88,2,frown
+15-008592_3_065,3,95,3,squeeze eyes tightly
+15-008592_4_065,2,111,4,clench the teeth
+15-008598_0_065,1,17,0,sitting at rest
+15-008598_1_065,2,62,1,smile
+15-008598_2_065,0,80,2,frown
+15-008598_3_065,3,95,3,squeeze eyes tightly
+15-008598_4_065,2,85,4,clench the teeth
+16-000072_0_065,1,17,0,sitting at rest
+16-000072_1_065,2,70,1,smile
+16-000072_2_065,0,81,2,frown
+16-000072_3_065,1,82,3,squeeze eyes tightly
+16-000072_4_065,2,104,4,clench the teeth
+16-000082_0_065,1,31,0,sitting at rest
+16-000082_1_065,2,76,1,smile
+16-000082_2_065,0,86,2,frown
+16-000082_3_065,1,84,3,squeeze eyes tightly
+16-000082_4_065,2,85,4,clench the teeth
+16-001670_0_065,2,22,0,sitting at rest
+16-001670_1_065,1,81,1,smile
+16-001670_2_065,0,88,2,frown
+16-001670_3_065,1,94,3,squeeze eyes tightly
+16-001670_4_065,2,106,4,clench the teeth
+16-001676_0_065,1,36,0,sitting at rest
+16-001676_1_065,1,107,1,smile
+16-001676_2_065,0,91,2,frown
+16-001676_3_065,0,98,3,squeeze eyes tightly
+16-001676_4_065,1,91,4,clench the teeth
+16-003027_0_065,1,20,0,sitting at rest
+16-003027_1_065,2,65,1,smile
+16-003027_2_065,0,86,2,frown
+16-003027_3_065,2,101,3,squeeze eyes tightly
+16-003027_4_065,2,105,4,clench the teeth
+16-003036_0_065,1,25,0,sitting at rest
+16-003036_1_065,2,74,1,smile
+16-003036_2_065,0,84,2,frown
+16-003036_3_065,1,95,3,squeeze eyes tightly
+16-003036_4_065,2,104,4,clench the teeth
+15-001939_0_066,2,42,0,sitting at rest
+15-001939_1_066,3,81,1,smile
+15-001939_4_066,2,99,4,clench the teeth
+15-005152_0_066,0,29,0,sitting at rest
+15-005152_1_066,3,73,1,smile
+15-005152_2_066,4,87,2,frown
+15-005152_3_066,4,124,3,squeeze eyes tightly
+15-005152_4_066,2,125,4,clench the teeth
+15-005182_0_066,1,20,0,sitting at rest
+15-005182_1_066,2,65,1,smile
+15-005182_2_066,3,77,2,frown
+15-005182_3_066,2,81,3,squeeze eyes tightly
+15-005182_4_066,2,99,4,clench the teeth
+15-006696_0_066,2,20,0,sitting at rest
+15-006696_1_066,3,72,1,smile
+15-006696_2_066,3,96,2,frown
+15-006696_3_066,3,90,3,squeeze eyes tightly
+15-006696_4_066,3,96,4,clench the teeth
+15-006716_0_066,1,34,0,sitting at rest
+15-006716_1_066,3,79,1,smile
+15-006716_2_066,3,92,2,frown
+15-006716_3_066,4,113,3,squeeze eyes tightly
+15-006716_4_066,2,100,4,clench the teeth
+15-008308_0_066,1,23,0,sitting at rest
+15-008308_1_066,3,77,1,smile
+15-008308_2_066,3,68,2,frown
+15-008308_3_066,3,91,3,squeeze eyes tightly
+15-008308_4_066,3,82,4,clench the teeth
+15-008324_0_066,1,22,0,sitting at rest
+15-008324_1_066,3,75,1,smile
+15-008324_2_066,4,79,2,frown
+15-008324_3_066,4,163,3,squeeze eyes tightly
+15-008324_4_066,3,107,4,clench the teeth
+16-000034_0_066,1,27,0,sitting at rest
+16-000034_1_066,3,71,1,smile
+16-000034_2_066,4,87,2,frown
+16-000034_3_066,3,121,3,squeeze eyes tightly
+16-000034_4_066,3,100,4,clench the teeth
+16-000040_0_066,1,30,0,sitting at rest
+16-000040_1_066,3,73,1,smile
+16-000040_2_066,4,86,2,frown
+16-000040_3_066,4,108,3,squeeze eyes tightly
+16-000040_4_066,3,101,4,clench the teeth
+16-001464_0_066,1,26,0,sitting at rest
+16-001464_1_066,3,69,1,smile
+16-001464_2_066,4,86,2,frown
+16-001464_3_066,3,111,3,squeeze eyes tightly
+16-001464_4_066,3,102,4,clench the teeth
+16-001472_0_066,0,18,0,sitting at rest
+16-001472_1_066,2,74,1,smile
+16-001472_2_066,3,92,2,frown
+16-001472_3_066,3,95,3,squeeze eyes tightly
+16-001472_4_066,3,111,4,clench the teeth
+16-002747_0_066,2,23,0,sitting at rest
+16-002747_1_066,3,82,1,smile
+16-002747_2_066,4,108,2,frown
+16-002747_3_066,3,131,3,squeeze eyes tightly
+16-002747_4_066,3,155,4,clench the teeth
+16-002750_0_066,1,21,0,sitting at rest
+16-002750_1_066,3,73,1,smile
+16-002750_2_066,4,90,2,frown
+16-002750_3_066,4,113,3,squeeze eyes tightly
+16-002750_4_066,3,97,4,clench the teeth
