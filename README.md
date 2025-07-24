@@ -16,9 +16,14 @@ This summer project aims to use machine learning / deep learning algorithms to b
 
 # Project Timeline (7 weeks) and Tech Stack (will edit as I move forward in the project) 
 - Week 1 and 2: Finding relevant datasets and training models (fine-tuning evaluating models, finding relevant features for deployment)
+<<<<<<< HEAD
 - Tech stack : Machine learning algorithms, from simple classifers e.g Logistic Regression, Random Forest Classifiers to complex ones like CNN, RNN, LSTM
 - Week 3 and 4: Refine models, and build a backend workflow + App prototype: Figma, flutter, React Native, librosa, pAudioAnalysis, Pratt
 Week 4 (Friday - Sunday): Learn Flutter and stat
 Week 5 and part of week 6: Implementing the backend workflow and building the app + integrating the AI powered app
 Week 6 and week &: Validation of results at the Neurological institute as per mentor's approval
+=======
+- Tech stack : Machine learning algorithms, from simple classiflers e.g Logistic Regression, Random Forest Classifiers to complex ones like CNN, RNN, LSTM
+- Week 3 and 4: Refine models, and build a backend workflow + Develop app prototype (will probably use flutter), and start building frontend
+>>>>>>> 355a1698788b7f3337e79384265bf8c2ff04c3dc
 
