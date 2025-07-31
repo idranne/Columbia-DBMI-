@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:newapp/pages/permission_page.dart';
+import 'package:my_app/permission_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -8,81 +8,78 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
+  // ✅ Root of your application
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      //This is the home --> basic layout
       home: Scaffold(
-        backgroundColor: Colors.deepPurple[200],
-        //little appbar at top
+        backgroundColor: Colors.white, // White background
+        // ✅ AppBar at the top
         appBar: AppBar(
           title: Text("ParkAssist"),
-          backgroundColor: Colors.deepPurple,
+          backgroundColor: Colors.purple[200], // Light purple app bar
           elevation: 0,
-          leading: Icon(Icons.menu),
-          actions [IconButton(onPressed: () {}, icon: Icon{Icons.logout})]
+          leading: Icon(Icons.menu, color: Colors.white),
+          actions: [
+            IconButton(
+              onPressed: () {},
+              icon: Icon(Icons.logout, color: Colors.white),
+            )
+          ],
         ),
 
-        //create a body layout with a container layout 
+        // ✅ Body layout
         body: Center(
-          //container --> think of this like div in html
-          child: Container(
-            height: 400, 
-            width: 500,
-            decoration: BoxDecoration(
-              color : Color.deepPurple,
-              borderRadius: borderRadius.circular(20)
-            ),
-            padding: EdgeInsets.all(25),
-            title: Text("Welcome to ParkAssist, a mobile application used for early detectionm of Parkinson Disease. The app collects important metrics such as voice patterns, handwritten dataset and typing patterns that can determine tour risk of getting PD. Embedded in the app is a genetic component used for any gene expression profile", 
-            style: TextStyle{
-              color: Colors.white,
-              fontSize : 28, 
-              fontWeight: FontWeight.bold
-        
-            })
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              // ✅ Main welcome container
+              Container(
+                height: 300,
+                width: 500,
+                decoration: BoxDecoration(
+                  color: Colors.purple[100], // Light purple foreground
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                padding: EdgeInsets.all(25),
+                child: Text(
+                  "Welcome to ParkAssist, a mobile application used for early detection of Parkinson Disease. "
+                  "The app collects important metrics such as voice patterns, handwritten dataset, and typing patterns "
+                  "that can determine your risk of getting PD. Embedded in the app is a genetic component used for "
+                  "any gene expression profile.",
+                  style: TextStyle(
+                    color: Colors.black, // Text readable on light purple
+                    fontSize: 20,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ),
+              SizedBox(height: 40), // Spacing before button
 
-
-          )
-        )
-
-        //create another widget (container for "Start Asssesment") which equally carries me to the permission page for permission in user
-        body: Column(
-          //children for several modifications
-          children: [
-          //expanded class
-            Expanded(
-              child: Container(
-                color: Colors.deepPurple[100],
-                height: 200,
-                width : 200,
-                title : Text("
-                Start assessment here", color: Colors.white, fontSize : 24, fontWeight: FontWeight.bold
-              )
-              )/
-            )
-            //padding attribute 
-            Padding(
-              padding: EdgeInsets.all(25),
-              //when ever the button is pressed, 
-              child: ElevatedButton(
-                child: Text("Start assessment here")
-                onPressed: (){
-                  //the user goes to the permission page
-                  Navigator.push(context,  
-                  MaterialPageRoute(builder: (context) => PermissionPage()))
-                }
-              )
-
-            )
-          ]
-        )
+              // ✅ Centered Start Assessment button
+              ElevatedButton(
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.purple[300], // Button color
+                  padding: EdgeInsets.symmetric(horizontal: 30, vertical: 15),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                ),
+                child: Text(
+                  "Start Assessment",
+                  style: TextStyle(fontSize: 18, color: Colors.white),
+                ),
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => PermissionPage()),
+                  );
+                },
+              ),
+            ],
+          ),
+        ),
       ),
-
-      
-
     );
   }
 }
-
