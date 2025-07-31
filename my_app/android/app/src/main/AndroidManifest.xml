@@ -1,4 +1,12 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" 
+package= "com.example.permissionhandler_example"
+>
+<uses-permission andriod:name = "andriod.permission.CAMERA"/>
+<uses-permission andriod:name = "andriod.permission.ACCESS_FINE_LOCATION"/>
+<uses-permission andriod:name = "andriod.permission.RECORD_AUDI0"/>
+<uses-permission andriod:name = "andriod.permission.WRITE_EXTERNAL_STORAGE"/>
+<uses-permission andriod:name = "andriod.permission.READ_EXTERNAL_STORAGE"/>
+
     <application
         android:label="my_app"
         android:name="${applicationName}"
