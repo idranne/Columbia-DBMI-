@@ -34,3 +34,8 @@ App Workflow
 
 # Weekend plan 
 - Learn flutter and start building basic flutter pluggins
+
+
+
+
+Use "on" for typing dataset 
