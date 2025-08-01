@@ -6,3 +6,7 @@
 
  - Take into account the different facial expression (smile, sitting up and down, stuff like that) ---> yup i got tgis one 
  - Divide updrs score by 4 
+
+
+Movement set
+remember that you have one hot tencoed the wrist column and also replace the task columns with integers
