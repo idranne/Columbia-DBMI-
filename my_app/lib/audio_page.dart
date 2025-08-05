@@ -27,6 +27,19 @@ class AudioPage extends StatefulWidget {
 class _AudioPageState extends State<AudioPage>{
   //Create recorder object
   final _record = AudioRecorder();
+
+  ///List for users to record
+  final List<String> _phrase = [
+    "Hi, I am Jack and I feel fine today",
+    "The quick brown fox jumps over the lazy dog",
+    "Please call Stella to ask about the park",
+    "My voice is important for this assessment"
+  ]
+
+  //store the recorded audio in another List 
+  final List<String> _recordings= []
+  //int index for placeholder
+  int _currentIndex = 0;
   //Variable to store audio file path
   String? _filePath;
 
@@ -38,7 +51,8 @@ class _AudioPageState extends State<AudioPage>{
     //Get device's document directory to store the recording
     final dir = await getApplicationDocumentsDirectory();
     //define file name and path 
-    final path = '${dir.path}/pd_audio.wav';
+    //keeping track of the current index as well
+    final path = '${dir.path}/pd_audio_${_currentIndex}.wav';
 
     //Creating recording configuration
     final config = RecordConfig(
@@ -69,9 +83,17 @@ class _AudioPageState extends State<AudioPage>{
   Future<void> _stopRecording() async{
     //Stop and finalize recording
     await _record.stop();
+    //append recorded file path to list
+    if(_filePath ! = null){
+      _recording.add(_filePath!);
+
+      //move to the next phrase if exist
+      if (_currenIndex < _phrases.length -1 )
     //Update UI 
     setState(() {
-      
+      //increment index and continue
+      _currentIndex++;
+     
     });
   }
 
@@ -135,6 +157,19 @@ Widget build(BuildContext context){
         mainAxisAlignment: MainAxisAlignment.center,
         //children list with several buttons
         children: [
+          //show current phrase and progress indicator
+          Text("Phrase" + _currentIndex + 1 + "of" + _phrase.length);, 
+          style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold),
+
+          const SizedBox(height: 10), 
+          ///phrases display for the user to record the voice 
+          Text(
+            _phrases[_currentIndex], 
+            textAlign: TextAlign.center,
+            style: const TextStyle(fontSize: 16),
+          )
+
+          const SizedBox(height: 20 )
           //Start button with recording function
           ElevatedButton(onPressed: _startRecording, 
           child: const Text("Start Recording")),
