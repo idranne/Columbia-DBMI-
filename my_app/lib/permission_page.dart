@@ -73,22 +73,35 @@ class _PermissionPageState extends State<PermissionPage> {
 
       ),
       //listing a body as a colunm and listview for the different metrics
-      body: Column(children: [
+      body: ListView(
+        padding: const EdgeInserts.all(16),
+
+        children: [
         //lis tIle will be used for all 3 parameters
         
         //Microphone for audio ML
-  
+
+        //Create a Card class to increase space
+
+        Card(
+          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          elevation: 2,
         ListTile( 
           leading: const CircleAvatar(child: Icon(Icons.mic)),
           title: const Text("Microphone Permission"),
           subtitle : const Text("Click to give microphone access"),
-          trailing: SizedBox(height: 40),
           //do something when tapped
           onTap: () => requestPermission(permission: Permission.microphone),
         ),
         
+        const SizedBox(height: 12), 
+        )
 
         //Typing for typing ML 
+
+        Card(
+          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          elevation: 2,
          ListTile( 
           leading: const CircleAvatar(child: Icon(Icons.apps)),
           title: const Text("Keyboard Permission"),
@@ -97,10 +110,18 @@ class _PermissionPageState extends State<PermissionPage> {
           //do something when tapped
           onTap: () => requestPermission(permission: Permission.microphone)
             
-          
          ),
+        )
+
+         const SizedBox(height: 12), 
+
+        
 
         //Typing for facial CNN
+
+        Card(
+          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          elevation: 2,
 
          ListTile( 
           leading: const CircleAvatar(child: Icon(Icons.photo)),
@@ -110,9 +131,16 @@ class _PermissionPageState extends State<PermissionPage> {
           //do something when tapped
           onTap: () => requestPermission(permission: Permission.camera)
         ),
+
+        )
+
+        const SizedBox(height: 12),
          
         //settings just in case
-         ListTile( 
+        Card(
+          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          elevation: 2, 
+          child: ListTile( 
           leading: const CircleAvatar(child: Icon(Icons.settings)),
           title: const Text("Open App Permission"),
           subtitle : const Text("Click to open app settings"),
@@ -120,21 +148,76 @@ class _PermissionPageState extends State<PermissionPage> {
           //do something when tapped
           onTap: () => requestPermission(permission: Permission.storage),
         ), 
+
+        )
+
+        const SizedBox(height: 12),
+
+        //Acceloremter
+        Card(
+          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          elevation: 2,
+          child: ListTitle(
+            minVerticalPadding: 20, 
+            leading: const CircleAvatar(child: Icon(Icons.sensors))
+            title: const Text("Accelerometer Permission"),
+            subtitle: const Text("Click to enable motion detection"), 
+            onTap : () => requestPermission(permission: Permission.sensors), 
+
+          )
+          ),
+
+          const SizedBox(height: 12)
+
+          //Gyrometer
+
+          Card(
+          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          elevation: 2,
+          child: ListTitle(
+            minVerticalPadding: 20, 
+            leading: const CircleAvatar(child: Icon(Icons.sensors))
+            title: const Text("Gyroscope Permission"),
+            subtitle: const Text("Click to enable device rotation detection"), 
+            onTap : () => requestPermission(permission: Permission.sensors), 
+
+          )
+          ), 
+
+          const SizedBox(height: 12)
+
+
         //Tap to start the first audio assesment
-        ListTile(
-          leading: const Icon(Icons.arrow_right_rounded),
+
+        Center(
           //title: const Text("Start Audio Assesment", style: TextStyle(color: Color.fromARGB(255, 209, 192, 237)),),
-          trailing: ElevatedButton(
+          child: ElevatedButton(
+            //styling 
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color.fromARGB(255, 188, 164, 229),
+              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(10),
+                ///styling with actual paramters
+            
+              )), 
+
+            ///second onPressed parameter to take to the audi page
+
             onPressed: () {
             Navigator.push(context, MaterialPageRoute(builder: (context)=> AudioPage()));
           },
           child: const Text("Start Audio Assesment", style: TextStyle(color: Color.fromARGB(255, 188, 164, 229))),))
+          
+          const SizedBox(height: 12),
+
+          
       
       
-         
+      
     
-      ],)
-    );
+      ], 
+    );)
   }
 }
 

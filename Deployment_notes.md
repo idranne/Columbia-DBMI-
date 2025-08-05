@@ -10,3 +10,9 @@
 
 Movement set
 remember that you have one hot tencoed the wrist column and also replace the task columns with integers
+
+
+#For dpleoyment
+in the flask_audio.ipynb file, optionally do preprocessing to boost accuracy
+
+in the audio.dart, tell them to say a word and extract those words recordings like a sentence or something

@@ -8,83 +8,127 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-
-  // ✅ Root of your application
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+      //home page 
       home: Scaffold(
-        backgroundColor: Colors.white, // White background
-        // ✅ AppBar at the top
+        backgroundColor: Colors.white,
+        //basic appBar with name of the app 
         appBar: AppBar(
           centerTitle: true,
-          title: Text("ParkAssist", style: TextStyle(fontSize: 20.0),),
-          backgroundColor: Colors.purple[200], // Light purple app bar
+          title: const Text("ParkAssist", style: TextStyle(fontSize: 20.0)),
+          backgroundColor: Colors.purple[200],
           elevation: 0,
-          leading: Icon(Icons.menu, color: Colors.white),
+          leading: const Icon(Icons.menu, color: Colors.white),
           actions: [
             IconButton(
               onPressed: () {},
-              icon: Icon(Icons.logout, color: Colors.white),
+              icon: const Icon(Icons.logout, color: Colors.white),
             )
           ],
         ),
 
-        // ✅ Body layout
-        body: Center(
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              // ✅ Main welcome container
-              Container(
-                height: 300,
-                width: 500,
-                decoration: BoxDecoration(
-                  color: Colors.purple[100], // Light purple foreground
-                  borderRadius: BorderRadius.circular(20),
-                ),
-                padding: EdgeInsets.all(25),
-                child: Text(
-                  "Welcome to ParkAssist, a mobile application used for early detection of Parkinson Disease. "
-                  "The app collects important metrics such as voice patterns, handwritten dataset, and typing patterns "
-                  "that can determine your risk of getting PD. Embedded in the app is a genetic component used for "
-                  "any gene expression profile.",
-                  style: TextStyle(
-                    color: Colors.black, // Text readable on light purple
-                    fontSize: 20,
-                    fontWeight: FontWeight.bold,
+        //Body with ListView
+        body: Column(
+          //children with ListView with thesame properties
+          children: [
+            Expanded(
+              child: ListView(
+                padding: const EdgeInsets.all(20),
+                children: [
+                  // Welcome Page Container with basic description of application
+                  Container(
+                    decoration: BoxDecoration(
+                      color: Colors.purple[50],
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    padding: const EdgeInsets.all(20),
+                    child: const Text(
+                      "Welcome to ParkAssist! This app collects different metrics "
+                      "to help with early detection of Parkinson Disease. "
+                      "Below are the features we’ll assess:",
+                      style: TextStyle(
+                        color: Colors.black87,
+                        fontSize: 18,
+                        fontWeight: FontWeight.w500,
+                      ),
+                    ),
                   ),
-                ),
-              ),
-              SizedBox(height: 40), // Spacing before button
+                  const SizedBox(height: 20),
 
-              // ✅ Centered Start Assessment button
-              Builder(
-                builder:(context) => 
-              ElevatedButton(
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.purple[300], // Button color
-                  padding: EdgeInsets.symmetric(horizontal: 30, vertical: 15),
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(12),
-                  ),
-                ),
-                child: Text(
-                  "Start Assessment",
-                  style: TextStyle(fontSize: 18, color: Colors.white),
-                ),
-                onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(builder: (context) => PermissionPage()),
-                  );
-                },
+                  // Feature cards for each metric
+                  _buildFeatureCard(Icons.mic, "Voice Analysis",
+                      "Capture your voice to analyze speech patterns."),
+                  _buildFeatureCard(Icons.keyboard, "Typing Pattern",
+                      "Track typing speed and rhythm for motor assessment."),
+                  _buildFeatureCard(Icons.face, "Facial Expression",
+                      "Use the camera to detect facial movement changes."),
+                  _buildFeatureCard(Icons.sensors, "Accelerometer",
+                      "Monitor hand tremors and movement sensitivity."),
+                  _buildFeatureCard(Icons.device_thermostat, "Gyroscope",
+                      "Analyze hand rotation and balance metrics."),
+                ],
               ),
-              )
-            ],
-          ),
+            ),
+
+            // Fixed Start Assessment button
+            Padding(
+              padding: const EdgeInsets.all(20),
+              //builder with button page
+              child: Builder(
+                //styling of the button page 
+                builder: (context) => ElevatedButton(
+                  //styling of the button page
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.purple[300],
+                    padding:
+                        const EdgeInsets.symmetric(horizontal: 30, vertical: 15),
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                  ),
+                  ///styling ends 
+                  
+                  //actual parameters of the elevatedbutton class
+                  child: const Text(
+                    "Click to give access",
+                    style: TextStyle(fontSize: 18, color: Colors.white),
+                  ),
+                //when clicked, take us to the permission page for access to permission
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => PermissionPage()),
+                    );
+                  },
+                ),
+              ),
+            ),
+          ],
         ),
+      ),
+    );
+  }
+
+  // Reusable feature card widget
+  //Think of this like functions that build the UI
+  static Widget _buildFeatureCard(IconData icon, String title, String desc) {
+    return Card(
+      //return a Card class with the following prop
+      elevation: 3,
+      margin: const EdgeInsets.symmetric(vertical: 8),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+      //this is littitle class for each metric
+      child: ListTile(
+        leading: Icon(icon, size: 40, color: Colors.purple[300]),
+        title: Text(title,
+            style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+        subtitle: Text(desc, style: const TextStyle(fontSize: 14)),
+        trailing: const Icon(Icons.arrow_forward_ios, size: 18),
+        onTap: () {}, // Optional: Navigate to detail page
       ),
     );
   }
