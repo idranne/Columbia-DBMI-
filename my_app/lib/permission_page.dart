@@ -74,19 +74,19 @@ class _PermissionPageState extends State<PermissionPage> {
       ),
       //listing a body as a colunm and listview for the different metrics
       body: ListView(
-        padding: const EdgeInserts.all(16),
-
+        padding: const EdgeInsets.all(16),
         children: [
-        //lis tIle will be used for all 3 parameters
+        //ListTile will be used for all 3 parameters
         
         //Microphone for audio ML
 
-        //Create a Card class to increase space
+        //Create a Card class to increase space and beauty
 
         Card(
-          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)), 
           elevation: 2,
-        ListTile( 
+
+        child: ListTile( 
           leading: const CircleAvatar(child: Icon(Icons.mic)),
           title: const Text("Microphone Permission"),
           subtitle : const Text("Click to give microphone access"),
@@ -94,15 +94,15 @@ class _PermissionPageState extends State<PermissionPage> {
           onTap: () => requestPermission(permission: Permission.microphone),
         ),
         
+        ),
         const SizedBox(height: 12), 
-        )
 
         //Typing for typing ML 
 
         Card(
-          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)), 
           elevation: 2,
-         ListTile( 
+         child : ListTile( 
           leading: const CircleAvatar(child: Icon(Icons.apps)),
           title: const Text("Keyboard Permission"),
           subtitle : const Text("Click to give keyboard access"),
@@ -111,7 +111,7 @@ class _PermissionPageState extends State<PermissionPage> {
           onTap: () => requestPermission(permission: Permission.microphone)
             
          ),
-        )
+        ),
 
          const SizedBox(height: 12), 
 
@@ -120,10 +120,10 @@ class _PermissionPageState extends State<PermissionPage> {
         //Typing for facial CNN
 
         Card(
-          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)), 
           elevation: 2,
 
-         ListTile( 
+        child: ListTile( 
           leading: const CircleAvatar(child: Icon(Icons.photo)),
           title: const Text("Camera Permission"),
           subtitle : const Text("Click to give camera access"),
@@ -132,15 +132,15 @@ class _PermissionPageState extends State<PermissionPage> {
           onTap: () => requestPermission(permission: Permission.camera)
         ),
 
-        )
+        ),
 
         const SizedBox(height: 12),
          
         //settings just in case
         Card(
-          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)), 
           elevation: 2, 
-          child: ListTile( 
+        child: ListTile( 
           leading: const CircleAvatar(child: Icon(Icons.settings)),
           title: const Text("Open App Permission"),
           subtitle : const Text("Click to open app settings"),
@@ -149,17 +149,17 @@ class _PermissionPageState extends State<PermissionPage> {
           onTap: () => requestPermission(permission: Permission.storage),
         ), 
 
-        )
+        ),
 
         const SizedBox(height: 12),
 
         //Acceloremter
         Card(
-          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)), 
           elevation: 2,
-          child: ListTitle(
+        child: ListTile(
             minVerticalPadding: 20, 
-            leading: const CircleAvatar(child: Icon(Icons.sensors))
+            leading: const CircleAvatar(child: Icon(Icons.sensors)),
             title: const Text("Accelerometer Permission"),
             subtitle: const Text("Click to enable motion detection"), 
             onTap : () => requestPermission(permission: Permission.sensors), 
@@ -167,16 +167,16 @@ class _PermissionPageState extends State<PermissionPage> {
           )
           ),
 
-          const SizedBox(height: 12)
+          const SizedBox(height: 12),
 
           //Gyrometer
 
           Card(
-          shape: RoundedRectangularBorder(borderRadius: BorderRadius.circular(12)), 
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)), 
           elevation: 2,
-          child: ListTitle(
+          child: ListTile(
             minVerticalPadding: 20, 
-            leading: const CircleAvatar(child: Icon(Icons.sensors))
+            leading: const CircleAvatar(child: Icon(Icons.sensors)),
             title: const Text("Gyroscope Permission"),
             subtitle: const Text("Click to enable device rotation detection"), 
             onTap : () => requestPermission(permission: Permission.sensors), 
@@ -184,7 +184,7 @@ class _PermissionPageState extends State<PermissionPage> {
           )
           ), 
 
-          const SizedBox(height: 12)
+          const SizedBox(height: 12),
 
 
         //Tap to start the first audio assesment
@@ -207,20 +207,19 @@ class _PermissionPageState extends State<PermissionPage> {
             onPressed: () {
             Navigator.push(context, MaterialPageRoute(builder: (context)=> AudioPage()));
           },
-          child: const Text("Start Audio Assesment", style: TextStyle(color: Color.fromARGB(255, 188, 164, 229))),))
+          child: const Text("Start Audio Assesment", style: TextStyle(color: Color.fromARGB(255, 188, 164, 229))),)),
           
           const SizedBox(height: 12),
 
-          
-      
+        
       
       
     
       ], 
-    );)
+    ), 
+    );
+    
   }
 }
 
 
-
-///Create an Container that take the user to the next page for audio dataset and that will be the continuation
