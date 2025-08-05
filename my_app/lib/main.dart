@@ -8,15 +8,18 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
+
   // ✅ Root of your application
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Colors.white, // White background
         // ✅ AppBar at the top
         appBar: AppBar(
-          title: Text("ParkAssist"),
+          centerTitle: true,
+          title: Text("ParkAssist", style: TextStyle(fontSize: 20.0),),
           backgroundColor: Colors.purple[200], // Light purple app bar
           elevation: 0,
           leading: Icon(Icons.menu, color: Colors.white),
@@ -57,6 +60,8 @@ class MyApp extends StatelessWidget {
               SizedBox(height: 40), // Spacing before button
 
               // ✅ Centered Start Assessment button
+              Builder(
+                builder:(context) => 
               ElevatedButton(
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.purple[300], // Button color
@@ -76,6 +81,7 @@ class MyApp extends StatelessWidget {
                   );
                 },
               ),
+              )
             ],
           ),
         ),
