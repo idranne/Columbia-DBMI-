@@ -207,7 +207,7 @@ class _PermissionPageState extends State<PermissionPage> {
             onPressed: () {
             Navigator.push(context, MaterialPageRoute(builder: (context)=> AudioPage()));
           },
-          child: const Text("Start Audio Assesment", style: TextStyle(color: Color.fromARGB(255, 188, 164, 229))),)),
+          child: const Text("Start Audio Assesment", style: TextStyle(color: Color.fromARGB(255, 5, 1, 14))),)),
           
           const SizedBox(height: 12),
 
