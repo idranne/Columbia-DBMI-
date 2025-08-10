@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-//Importing necessary packages
-=======
->>>>>>> 0e600a50103feaa9dc9ef821b1df2397907f37cf
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:my_app/audio_page.dart';
