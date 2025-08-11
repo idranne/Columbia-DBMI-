@@ -1,6 +1,7 @@
 //Importing dependencies
 import 'package:flutter/material.dart';
 import "package:camera/camera.dart";
+import 'package:my_app/acce_page.dart';
 import 'dart:async';
 import 'dart:io';
 import "package:path_provider/path_provider.dart";
@@ -49,7 +50,7 @@ class _FacialPageState extends State<FacialPage> {
      _cameras = await availableCameras();
 
      //Prefer front camera for facial capture
-     //searches for  camera with front lens, else defaults to first 
+     //searches for  camera with front lens, else defaults to first that is found 
      final frontCamera = _cameras!.firstWhere(
       (camera) => camera.lensDirection == CameraLensDirection.front, orElse: () => _cameras!.first,
      );
@@ -137,10 +138,6 @@ class _FacialPageState extends State<FacialPage> {
     }
   }
 
-
-
-
-
 //-----------------------------------------UI/UX design -----------------------------------//
 
   Widget build(BuildContext context) {
@@ -155,59 +152,94 @@ class _FacialPageState extends State<FacialPage> {
     ),
 
     //body 
-    body _isCameraInitialized?Column(
+    body: _isCameraInitialized?
+    Column(
       children: [
         //camera previe
         Expanded(
           flex:3, 
-          child: CameraPreview(_cameraController!)),
+          child: CameraPreview(_cameraController!),),
 
 
-          //Instructions for user
+          //-----------------------------Instructions for user----------------------------------//
+
+//Basic padding with child text 
           Padding(
-            padding: const EdgeInsets.all(16)),
+            padding: const EdgeInsets.all(16),
             child: Text(
               _countdown > 0?
               "Get ready in  ${_countdown}" :
               "Clench your teeth and press 'Start Test'.", 
-              style: const TextStyle(fontSize: 18)), 
+              style: const TextStyle(fontSize: 18), 
               textAlign: TextAlign.center,
-          
+            ),
             ),
 
             //prediction
-            if(_predictionResults != null)
+            if (_predictionResults != null)
             Padding(
               padding: const EdgeInsets.all(16),
               child: Text(
                 "Prediction: ${_predictionResults}", 
-                style: const TextStyle(fontSize: 18, FontWeight: FontWeight.bold), 
+                style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold), 
                 textAlign: TextAlign.center,
               ),
-             
+            ),
+            
 
             //Start test button
             Padding(
-              padding: const EdgeInesets.all(16.0), 
+              padding: const EdgeInsets.all(16.0), 
               child: ElevatedButton(
+
                 style: ElevatedButton.styleFrom(
+                  //styling 
                   backgroundColor: Colors.deepPurple,
-                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16))
-                   onPressed; _startCountdownAndCapture,
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 24, vertical: 16),),
+
+                   onPressed: _startCountdownAndCapture,
+                   child: const Text("Start Test"),
+            
+            ),
+            ),
+
+            //Button to take next page
+              Padding(
+              padding: const EdgeInsets.all(16.0), 
+              child: ElevatedButton(
+
+                style: ElevatedButton.styleFrom(
+                  //styling 
+                  backgroundColor: Colors.deepPurple,
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 24, vertical: 16),),
+
                    onPressed: (){
-                    Navigator.push(context, MaterialPageRoute(builder: (context)=> Acceloremeter_GyrometerPage()));
-                   }
-                   child: const Text("Start Test"))
-            ), 
-            )
-          
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const AccelerometerPage()
+                        ));
+                   },
+                   child: const Text("Continue to Accelerometer/Gyrometer", 
+                   style: TextStyle(color: Colors.white)),),
+            
+            ),
+            
+
+             
+        
+        
       ],
-    ))
-),
+
+    ):
+      const Center(child: CircularProgressIndicator())
+    );
+    
 
 
-
-    )
+    
   }
 
 
